@@ -1,30 +1,34 @@
 ## DeepEval integrations
 
 ### Evaluators
-Evaluations are invoked via Evaluator classes derived from `BaseEvaluator`, `aevaluate` method:
-[deepeval/integrations/llama_index/evaluators.py](https://github.com/confident-ai/deepeval/blob/dbc0833c9519ff98c1f9757c129f499177f11e68/deepeval/integrations/llama_index/evaluators.py)
+Evaluations can be performed per individual metric or in bulk using the `evaluate` function.
 
-Example 
+For example, see `experiments/re-test-template/step_4_eval.ipynb`:
 ```python
-from deepeval.integrations.llamaindex import DeepEvalFaithfulnessEvaluator
+from deepeval import evaluate
+from deepeval.test_case import LLMTestCase
+from deepeval.metrics import AnswerRelevancyMetric
 
-# An example input to your RAG application
-user_input = "What is LlamaIndex?"
 
-# LlamaIndex returns a response object that contains
-# both the output string and retrieved nodes
-response_object = rag_application.query(user_input)
+metric = AnswerRelevancyMetric(threshold=0.5)
+test_cases = [LLMTestCase(
+    input=response.get("question"),
+    actual_output=response.get("response")
+) for response in qa_data.get("eval-questions")]
 
-evaluator = DeepEvalFaithfulnessEvaluator()
-evaluation_result = evaluator.evaluate_response(
-    query=user_input, response=response_object
-)
-print(evaluation_result)
+score_data = evaluate(test_cases, [metric])
+scores = [r.metrics_data[0].score for r in score_data.test_results]
+print(scores)
 ```
 
 
 ### Code tie-ins
-To import your code modules follow one of the following patterns:
+Follow this method to integrate your code into the eval test harness:
+1. Import your module code using one of the methods below
+2. `import` your module into the test code file:
+- For example: `experiments/re-test-template/step_3_test.ipynb`
+3. Mock out security featuers
+4. Save results of completions together with the relevant Q/T pair.
 
 #### - Install/update from a github repo:
 ```bash
