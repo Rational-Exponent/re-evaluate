@@ -73,9 +73,6 @@ def process_occ_exam_qt_pdf(file_name):
             this_group = []
         else:
             this_group.append(element)
-
-    if this_group:
-        qt_groups.append(make_group())
     
     return qt_groups
 
