@@ -1,0 +1,874 @@
+[
+    {
+        "question": "Is it required for every bank to have a written policy regarding insider transactions -",
+        "answer": "yes",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "What law governs loans to executive officers for banks -",
+        "answer": "12 USC 375a",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "What law governs extensions of credit to executive officers, directors, and principal shareholders -",
+        "answer": "12 USC 375b",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "What is the main regulation governs insiders (reg 0) -",
+        "answer": "12 CFR 215",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "What regulation does the OCC have that governs extensions of credit to insiders and transactions with affiliates -",
+        "answer": "12 CFR 31",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "How is insider defined per regulation o -",
+        "answer": "It is an executive officer, director, principal shareholder including related interests of such person",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "For regulation O purposes how is related interest defined -",
+        "answer": "A company that is controlled by that person or a political campaign committee that is controlled by that person or the funds of services of which will benefit that person",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "how is affiliate defined for regulation o purposes -",
+        "answer": "means any company of which a member bank is a subsidiary or any subsidiary of that company",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "how is subsidiary defined for regulation o purposes -",
+        "answer": "any company who owns 25% or more of voting shares, any company the election of a majority of whose directors is controlled in any manner by such company, and/or any company with respect to the management of policies of which such bank holding company has the power, directly or indirectly, to exercise a controlling influence, as determined by the board, after notice and opportunity of a hearing",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "how is principal shareholder defined for regulation o purposes -",
+        "answer": "directly or indirectly or acting through concert with one or more persons, owns, controls, or has the power to vote more than 10 percent of any class of voting securities of a member bank or company. Shares owned by immediate family are considered owned being held by that person",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "For the purposes or regulation 0, how is control of a bank determined -",
+        "answer": "a person directly or indirectly 1. owns, controls, or has the power to vote 25% or more of any class of voting securities of the bank 2. controls in any manner the election of a majority of the directors of the company or bank or 3. has the power to exercise a controlling influence over the management or policies of the bank",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "For purposes of regulation o, when is a person presumed to have control, including power to exercise a controlling influence over the management or policies of the bank -",
+        "answer": "if the person is an executive officer or director and has the power to vote more than 10 percent of any class of voting securities or the person directly or indirectly owns or has the power to vote more than 10 percent of any class of stock and no other person owns, controls, or has the power to vote a greater percentage of that class of stock",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Is an executive officer or director assumed to have control including the power to exercise a controlling influence over the management or policies of the bank solely by virtue of the individuals position as an officer or director -",
+        "answer": "no",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Does a director have to receive compensation to be considered an insider for regulation o -",
+        "answer": "no",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Is an advisory considered an insider for regulation o purposes -",
+        "answer": "An advisory director is not considered an insider for regulation o purposes if 1. they were not elected by the shareholders 2. is not authorized to vote on matters before the board and 3. provides solely general policy advice to the board",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Can a director or director of an affiliate be excluded from certain parts of regulation o via resolution of the board as long as certain criteria are met -",
+        "answer": "yes",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "How is executive officer defined by regulation o -",
+        "answer": "a person who participates or has the authority to participate (other than in the capacity as director) in major policy making functions of the bank. This includes officers who do or do not have an official title",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Does regulation o stipulate that certain titles are automatically included as an executive officer unless they are specifically excluded. If yes, what titles are automatically included -",
+        "answer": "Chairman of the board, President, vice president, cashier, secretary and treasurer",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Can an executive officer be excluded as an executive officer if the board does not include the executive officer in a list of persons authorized to participate in policy making functions -",
+        "answer": "Yes, per 12 CFR 215 e3ii they can",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "for regulation o purposes who is included in the term immediate family -",
+        "answer": "spouse, minor children, or any adult children still residing in the members house",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Who is considered an insider for the purposes of regulation o -",
+        "answer": "executive officer, director, principal shareholder, including any related interests of such person",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Is the legal lending limit different for insiders and executive officers -",
+        "answer": "the legal lending limit is still 15% of the banks unimpaired capital and surplus, but one main difference is that unfunded commitments are considered fully funded.",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Is an advance against accrued salary or other accrued compensation, or advance for the payment of authorized travel or other expenses considered an extension of credit for reg o purposes -",
+        "answer": "no",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "In general what are the two requirements for a member bank to extend credit to an insider -",
+        "answer": "1. must be made on substantially the same terms (including interest rate and collateral) as, and following the same credit underwriting procedures as a similar transaction and 2. repayment can not involve more than the normal risk of repayment or present any other unfavorable terms",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Can a bank renew or extend a substandard credit made to an insider -",
+        "answer": "Generally no, because it would present more than the normal risk of repayment",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Can the bank offer special pricing for directors and insiders -",
+        "answer": "Yes, as long s the same terms are widely available to all employees and it does not give preference to the insiders over other employees",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Per regulation O, can a bank offer higher rates on deposit accounts to insiders -",
+        "answer": "Regulation O does not cover deposit accounts. However, 12 USC 376 does state that the banks can not pay higher rates on insiders deposit accounts than those paid to the public",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "for all insiders except executive officers when must prior approval for a loan be obtained and are there any other requirements -",
+        "answer": "prior approval must be obtained when the amount of the loan exceeds the higher of $25,000 or 5 percent of the banks T1ALLL. and the member must abstain from the vote. also if 5% is TLALL is more than $500,000 the bank must obtain prior approval regardless if it is less than 5% of T1ALLL",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Is there a special limit for banks with less than $100 million -",
+        "answer": "Yes. Member banks with less than $100 million may by annual resolution of the board, increase the general limits of 5 percent of tier 1 plus the ALLL to a level not to exceed two times the banks unimpaired capital as long as the bank is in sound condition with no significant capital defeciencies",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Can a bank pay overdrafts for insiders -",
+        "answer": "Yes as long as the bank has a written preauthorized interest bearing extension of credit plan or written preauthorized transfer of funds from another account at the bank",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Does the overdraft rule apply to principal shareholders -",
+        "answer": "No, unless the principal shareholder is also an officer or director.",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Are there certain types of overdrafts that would not be considered a violation of regulation O -",
+        "answer": "Yes. Provided that the amount is $1,000 or less and provided that the account was not overdrawn more than 5 business days and the bank charges the standard overdraft fee",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Does regulation o differentiate the amount an executive officer can borrower compared to other insiders -",
+        "answer": "Yes. With insiders it is generally 5 percent of T1AILL or $25,000 which ever is greater, but requires prior approval for anything over $500,000. Executive officers is 2.5% of T1ALLL or $25,000 which ever is greater, but in no event more than $100,000, unless the loan is for certain purposes",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Are there certain types of loans that can be made to executive officers above the $100,000 limit? -",
+        "answer": "Yes, to finance the education of the executive officers children or to finance or refinance the purchase, construction, maintenance, or improvement to a residence of the executive officer provided that the extension of credit is secured by a first lien on the residence and the residence is owned by the executive officer, and in the case of refinancing, only the amount used to repay the extension of credit along with closing costs",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "are there certain requirements for regulation O officers as far as reporting -",
+        "answer": "Yes. the loan must be promptly reported to the board, preceeded by a submission of a detailed current financial statement of the executive officer, and must have a due and payable clause",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "for regulation o, what methods can the bank employ to maintain the records of outstanding credit to insiders -",
+        "answer": "survey method, borrower inquiry method, alternate method",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Can an executive officer pledge stock held at the bank as collateral for loans held outside the bank -",
+        "answer": "yes as long as the insider reports it annually to the board",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "what is the violation for violating regulation o -",
+        "answer": "not more than $5,000 per day for each offense unless it is determined to be a pattern or practice at which time it would be a $25,000 per day per offense",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Is there a rule in the regulation that sets a limit on the aggregate amount of credit outstanding to insiders? -",
+        "answer": "Yes. All insider loans combined can not exceed the banks unimpaired capital and unimpaired suplus",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "If an executive officer or principal shareholder have debt outstanding at a correspondent bank what are the reporting requirements -",
+        "answer": "They must make a report to the board before January 30 of the following year that includes; 1. the maximum indebtedness, the highest amount of indebtedness during the year and 3. the highest end of month indebtedness during the calendar year as well as the terms and conditions of such loans",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Restrictions on insider activities in regulation o are designed to prevent what two major abuses -",
+        "answer": "preferential treatment and self dealing",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "For regulation O there are several types of extensions that do not count towards the limits outlined in regulation o. Name some -",
+        "answer": "1. Advance on accrued salary 2. acquisition of a note, draft bill of exchange as a result of foreclosure or merger and acquisition 3. credit card balances up to $15,000 4. Interest bearing overdraft protection lines for up to $5,000 5. loan guarantees",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "What if the bank enters into a loan with an insider that is above the legal lending limit, but the bank participates half of the loan to another bank with recourse. Is this a violation? -",
+        "answer": "Yes because of the recourse stipulation",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Can you name the Policies and Procedures manual that relates to bank enforcement actions and related matters -",
+        "answer": "PPM 5310-3",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Why does the OCC use enforcement actions -",
+        "answer": "to require banks board of directors to take timely actions to correct a bank's deficient practices or violations",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "What is the difference between a formal and informal enforcement action -",
+        "answer": "There are many differences, for one is that informal actions are generally not public information as compared to formal actions are public information",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "why might the OCC issue an informal action as compared to a formal action -",
+        "answer": "When the bank's condition is sound, but it is necessary to obtain written commitments from a bank's board of directors to ensure that identified problems and weaknesses will be corrected",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "List the six types of informal enforcement actions -",
+        "answer": "1. commitment letters, 2. memorandum of understanding 3. individual minimum capital ratios 4. notices of deficiency issued under 12 CFR 30 5. operating agreements 5. some instances of conditions imposed in writing under 12 USC 1818",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "list some of the characteristics of a commitment letter -",
+        "answer": "1. informal action 2. it will contain specific written commitments to take corrective action 3. may be drafted by the occ or the bank 4. signed by the board and acknowledged by the OCC 5. not legally binding 6. failure to meet the commitments may provide strong evidence for the need of a formal action",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Can the OCC impose CMPs for non compliance with a commitment letter -",
+        "answer": "No. A commitment letter is not legally enforceable in court and the OCC can not impose CMPs for non compliance. However, noncompliance may provide strong evidence for the need of a formal enforcement action",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Is the memorandum of understanding a formal or informal action -",
+        "answer": "informal",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "list some characteristics of a memorandum of understanding -",
+        "answer": "1. bilateral document between bank and OCC that looks similar to a OCC formal action in form and content. 2. The MOU is drafted by the OCC 3. The MOU is not a legal document 4. failure to meet the requirements in an MOU may indicate need for a formal action",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Can the OCC impose CMPs for non compliance with a memorandum of understanding -",
+        "answer": "No. This is not a legal document and the occ can not impose CMPs for non compliance, but non compliance may indicate the need for a formal action",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Is an Individual Capital Ratio action a formal or informal action -",
+        "answer": "informal",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "What are some characteristics of an individual capital ratio action plan -",
+        "answer": "1. Sets higher minimum capital ratio requirements based on the bank's risk profile 2. OCC sends notice or issues IMCR is ROE 3. The letter will indicate the required ratios, the date they must be reached, and explain why the OCC determined those ratios are appropriate 4. bank must respond in 30 days to include how they will obtain those ratios and in what time frame",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "If the OCC issued an individual minimum capital requirements letter and the capital ratios indicated in the letter are higher than the PCA thresholds, does this change the banks PCA capital category -",
+        "answer": "No",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "What happens if the OCC issues an Individual Minimum Capital Ratios letter and the bank does not meet the higher capital ratios required? -",
+        "answer": "The OCC can issue a capital directive requiring the bank to adhere to an acceptable plan to achieve or maintain its required capital levels. Additionally, the OCC may deem the banks failure to meet the capital ratios an unsafe and unsound practice",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Is an operating agreement a formal or informal action -",
+        "answer": "generally informal unless it is made explicitly enforceable under 12 USC 1818",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "name some characteristics of an operating agreement -",
+        "answer": "1. a bilateral document signed by the board on behalf of the bank 2. operating agreements typically specify that they are written agreements 3. require banks to take action 3. drafted by the OCC",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Can the OCC issue CMPs for non compliance with an operating agreement -",
+        "answer": "violations of an operating agreement can provide the legal basis for additional enforcement actions, including CMP assessments",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Are operating agreements enforceable in court -",
+        "answer": "no",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Is the notice of deficiency issued under 12 CFR 30 a formal or informal enforcement action -",
+        "answer": "informal",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "What are the characteristics of a notice of deficiency issued under 12 CFR 30 -",
+        "answer": "1. drafted by the OCC and signed by the board 2. requires the bank to submit a safety and soundness plan including what steps will be taken and in what time frame 3. Bank generally has 30 days to respond 4. if the bank fails to submit an adequate plan in time, the OCC could be required to issue stricter requirements under 12 USC 1831",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "When might the OCC use a formal action as compared to an informal action -",
+        "answer": "1. material non- compliance with prior corrective actions commitment 2. significant problems or weaknesses 3. engaging in unsafe or unsound practices 4. presumption to us formal action in banks with composite of 3 or worse, 3 rating is possible if 3 rating for 2 consecutive exams also, 4 and 5 rated always have formal action",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "What three elements must be proven to be considered unsafe and unsound -",
+        "answer": "1. There has been some conduct, whether act or omission 2. contrary to accepted standards of prudent banking operation 3. might result in exposure of the bank or its shareholders to abnormal risk or loss",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Name the different types of formal enforcement actions -",
+        "answer": "1. consent orders 2. temporary cease and desist orders 3. capital directives 4. pca directives 5. safety and soundness orders under 12 CFR 30 6.GLBA agreements 7. Formal Agreements 8. Cease and desist order (consent order)",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Is a formal agreement formal or informal and public or non public -",
+        "answer": "formal and public",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "what are some characteristics of a formal agreement -",
+        "answer": "1. most common type of public/formal agreement 2. The formal action has articles that must be met 3. The agreement describes restrictions and remedial actions the bank must take 4. this agreement is written by the OCC and signed by the board 5. formal agreements are not enforceable through the courts but may provide a legal basis for",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "additional enforcement actions and CMP's 6. willful violation of formal agreement is not grounds for receivership\nIs a formal agreement enforceable in federal court -",
+        "answer": "no",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "does a formal agreement allow the OCC to assess CMPs -",
+        "answer": "yes",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "ls a temporary cease and desist order formal or informal, and public or non public -",
+        "answer": "formal action and not public except for the related notice of charges",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "name some characteristics of a temporary cease and desist order -",
+        "answer": "1. issued pursuant to 12 USC 1818 following filing of notice of charges 2. issued when bank engages in unsafe or unsound practice and the violation or practice could create insolvency or significant dissipation of banks earnings or capital 3. also issued if banks records are so incomplete or inaccurate that the OCC is unable to determine the financial condition 4. order is issued by the OCC through the federal court system",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Does a temporary cease and desist order allow the OCC to impose CMPs -",
+        "answer": "yes",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Does the temporary cease and desist order go through the federal court system -",
+        "answer": "yes",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Is a capital directive a formal or informal action and public or non public -",
+        "answer": "formal action and public",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "name some characteristics of the capital directive -",
+        "answer": "1. This is the next step if the bank fails meet conditions listed in the informal IMCR 2. OCC sends the bank of a notice of intent to issue the capital directive 3. bank has 30 days to respond 4. rarely issued because most banks with deficient capital have other deficiencies that also need addressed and are normally part of another formal agreement",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "can a capital directive be used by the occ in federal court -",
+        "answer": "yes, the capital directive has the same full force of a cease and desist order",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "can the occ issue cmp's for failure to comply with a capital directive -",
+        "answer": "yes",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "is a capital directive grounds for receivership -",
+        "answer": "a capital directive is not grounds for receivership on its own",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "is a cease and desist order formal or informal and public or non public -",
+        "answer": "formal and public",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "name some characteristics of a formal agreement -",
+        "answer": "1. this is the final order issued pursuant to 12 USC 1818 2. issued when bank is engaged is unsafe or unsound practice 2. could require bank to make restitution 3. could restrict asset growth, dispose of a loan or asset, rescind an agreement or contract, employee qualified officers and employees 4. imposed on an involuntary basis after issuance of notice of charges",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "is a cease and desist enforceable in court -",
+        "answer": "yes",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "does a cease and desist order allow the occ to impose cmps -",
+        "answer": "yes",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "does a cease and desist order allow the occ to issue demands for restitution -",
+        "answer": "yes",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "does a cease and desist order allow the Occ to restrict asset growth or make the bank dispose of an asset -",
+        "answer": "yes",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "is a cease and desist order grounds for receivership -",
+        "answer": "yes",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "ls a prompt corrective action directive a formal or informal agreement and public or non public -",
+        "answer": "formal and public",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "name some characteristics of a prompt corrective action directive -",
+        "answer": "1. bank is subject to mandatory restrictions based PCA category 2. OCC or FDIC could require recapitalization, restrict affiliate transactions, restrict interest rates paid, require sale of voting shares, and restrict asset growth, require new board members or members of management, prohibit correspondent bank deposits 3. PCA directive is generally issued for banks that are undercapitalized, significantly undercapitalized, or critically undercapitalized",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "is a prompt corrective action directive enforceable in court -",
+        "answer": "yes the PCA directive has the same force of a cease and desist order",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "is a gramm leach Bliley act agreement a formal or informal action and public or non public -",
+        "answer": "formal and public",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "why would a gramm leach Bliley act formal agreement be issued -",
+        "answer": "Because a bank hold an interest in a financial subsidiary and the bank or one of its affiliates is 1. not well capitalized or well managed 2. the aggregate assets exceed a certain threshold 3. accounting treatment does not comply with regulatory requirements 4. procedure for identifying and managing risk does not adequately protect the bank 5. the policies and procedures do not preserve the separate corporate identity and limited liability of the bank and the financial subsidiaries",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "With a glba formal action can the occ limit the conduct or activities of the bank or any subsidiary -",
+        "answer": "yes",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "using the glba formal agreement can the occ require a financial institution to divest control in a financial subsidiary -",
+        "answer": "generally yes. If the bank does not comply with the glba formal agreement within 180 days the occ can force the bank to divest",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "are civil money penalties formal or informal and public or non public -",
+        "answer": "formal and public",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "is a safety and sound order a formal or informal action and public or non public -",
+        "answer": "formal and public",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "what are some characteristics of a safety and soundness order -",
+        "answer": "1. generally issued when bank fails to meet the informal \"notice of deficiency issued under 12 CFR 30\" 2. OCC must take additional actions on banks that have not corrected deficiencies 3. occ can issue a safety and soundness order that is immediately effective, but not typical 4. can be issued even if bank is well capitalized",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "is a safety and soundness order enforceable in federal court -",
+        "answer": "yes",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "is willful violation of a safety and soundness plan grounds for receivership -",
+        "answer": "no, not by itself",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "can a safety and soundness order be issued even if the bank has met well capitalized per 12 CFR 6 -",
+        "answer": "yes",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "What are the requirements for public disclosure on formal actions -",
+        "answer": "the occ is generally required to make available to the public certain final enforcement actions monthly including consent orders, C&D orders, formal agreements, capital directives, pca directives, safety and soundness orders, civil money penalties and termination or modification or such actions. generally published on occ website",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "who has the occ delegated decision making authority to determine when an informal or formal action will take place -",
+        "answer": "senior deputy comptrollers for bank supervision or major matters supervision review committee",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "what is major matters supervision review committee MMSRC -",
+        "answer": "The mmsrc makes enforcement decisions on cases that are of heightened importance because of the visibility, policy sensitivity, involvement of multiple agencies, nature of the issue, or potential systematic impact",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "What is the Washington supervision review committee WSRC -",
+        "answer": "the WSRC reviews enforcement actions recommendations within its authority and serves as an advisory committee for the appropriate senior deputy comptroller who makes the final decision for his or her cases",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "what is district supervision review committee DSRC or midsize supervision review committee MSRC -",
+        "answer": "each occ district and midsize bank division has an src that reviews supervisory and enforcement action recommendations within its authority and serves as an advisory committee for the appropriate deputy comptrollers who make the final decision for his or her cases",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Generally at what capital level or tangible equity capital level would the OCC initiate receivership, conservatorship, or require sale, merger, or liquidation -",
+        "answer": "when the bank is insolvent or tangible equity capital is two percent or less",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "generally how long does the occ have to take enforcement actions against banks after the start of the supervisory activity that created the cause for a formal action -",
+        "answer": "generally as soon as possible but it should be issued within 180 of the start of the supervisory activity that results in the formal action",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "generally how long after the occ have to present to the appropriate SRC after the supervisory activity that created the cause for a formal action -",
+        "answer": "enforcement recommendations based on facts gathered should be presented to the appropriate SRC within 90 days of the completion of the investigation work",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "how soon after an enforcement action is issued must examiners perform the first assessment of the bank's compliance with the enforcement action -",
+        "answer": "180 days",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "With formal actions the examiners must complete verification and validation that the actions required by the formal action have been completed. What is the difference between verification and validation -",
+        "answer": "verification is when examiners review the bank's documents and confirm the board and management completed the required corrective action --- validation is the process by which examiners confirm the effectiveness and sustainability of corrective actions",
+        "source": {
+            "title": "UCE OCC Exam (Deck 3) Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577315-uce-occ-exam-deck-3-questions-en-answers-20242025.pdf"
+        }
+    }
+]
