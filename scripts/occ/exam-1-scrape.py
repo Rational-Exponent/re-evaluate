@@ -56,7 +56,7 @@ def process_occ_exam_qt_pdf(file_name):
         do_switch = file_name.endswith('Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf')
         return {
             'question': q_part if not do_switch else a_part,
-            'answer': a_part if not do_switch else q_part,
+            'truth': a_part if not do_switch else q_part,
             'source': {
                 'title': title,
                 'file_name': file_name

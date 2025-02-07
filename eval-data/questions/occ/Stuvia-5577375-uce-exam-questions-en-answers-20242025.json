@@ -1,7 +1,7 @@
 [
     {
         "question": "We are well capitalized, why are we not rated a 1 or 2? -",
-        "answer": "12 CFR 6 Prompt Corrective Action (PCA) places restrictions on deteriorating capital ratios to resolve problems at institutions at the least possible long-term cost to the deposit insurance fund and does not consider risk. 12 CFR 3 is the regulation for determining capital adequacy based on your risk profile. Some examples of needed higher capital ratios include having excessive concentrations, high volume or severe problem assets, and rapid growth.",
+        "truth": "12 CFR 6 Prompt Corrective Action (PCA) places restrictions on deteriorating capital ratios to resolve problems at institutions at the least possible long-term cost to the deposit insurance fund and does not consider risk. 12 CFR 3 is the regulation for determining capital adequacy based on your risk profile. Some examples of needed higher capital ratios include having excessive concentrations, high volume or severe problem assets, and rapid growth.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -9,7 +9,7 @@
     },
     {
         "question": "What happens if we become adequately capitalized? -",
-        "answer": "You will be unable to accept, renew, or roll over brokered deposits without a waiver from the FDIC. and you cannot pay more than 75 basis points over local market rate on deposits. It also may limit your ability to obtain additional liquidity.",
+        "truth": "You will be unable to accept, renew, or roll over brokered deposits without a waiver from the FDIC. and you cannot pay more than 75 basis points over local market rate on deposits. It also may limit your ability to obtain additional liquidity.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -17,7 +17,7 @@
     },
     {
         "question": "We are well capitalized so we aren't in danger of capital restrictions? -",
-        "answer": "No bank is considered WC if they are subject to a FA or capital directive even if you have achieved higher specified minimums. OCC can also reclassify you to a lower capital category due to unsafe and unsound practices or conditions.",
+        "truth": "No bank is considered WC if they are subject to a FA or capital directive even if you have achieved higher specified minimums. OCC can also reclassify you to a lower capital category due to unsafe and unsound practices or conditions.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -25,7 +25,7 @@
     },
     {
         "question": "Why do we need a capital plan? -",
-        "answer": "A good capital plan ensures the bank's ongoing safety and soundness. Raising capital in stressed environments typically becomes much more difficult and costly. By having a formal capital plan, management can identify potential risks to capital and take action as necessary to avoid further deterioration to earnings or capital.",
+        "truth": "A good capital plan ensures the bank's ongoing safety and soundness. Raising capital in stressed environments typically becomes much more difficult and costly. By having a formal capital plan, management can identify potential risks to capital and take action as necessary to avoid further deterioration to earnings or capital.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -33,7 +33,7 @@
     },
     {
         "question": "What is included in a good capital plan? -",
-        "answer": "A good capital plan is forward looking 1) identifies and evaluates risks such as current strategies or risk within the balance sheet 2) sets and assesses capital adequacy goals and risk limits that relate to risk in both the short-term and long-term and 3) include a strategy to maintain and build capital by identifying primary and contingent sources of capital",
+        "truth": "A good capital plan is forward looking 1) identifies and evaluates risks such as current strategies or risk within the balance sheet 2) sets and assesses capital adequacy goals and risk limits that relate to risk in both the short-term and long-term and 3) include a strategy to maintain and build capital by identifying primary and contingent sources of capital",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -41,7 +41,7 @@
     },
     {
         "question": "What are some things the capital plan should consider? -",
-        "answer": "It should consider the bank's risk profile and operations such as level of problem assets, growth plans, dividend requirements, holding company support, and methods and cost of raising capital",
+        "truth": "It should consider the bank's risk profile and operations such as level of problem assets, growth plans, dividend requirements, holding company support, and methods and cost of raising capital",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -49,7 +49,7 @@
     },
     {
         "question": "Why do we need a capital stress test? We aren't that big... -",
-        "answer": "The OCC considers some form of annual stress testing to be a key part of sound risk management. By performing stress testing, management will be able to identify areas of risk and appropriately manage and set risk tolerances in relation to that risk which could ultimately protect the bank from unexpected losses.",
+        "truth": "The OCC considers some form of annual stress testing to be a key part of sound risk management. By performing stress testing, management will be able to identify areas of risk and appropriately manage and set risk tolerances in relation to that risk which could ultimately protect the bank from unexpected losses.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -57,7 +57,7 @@
     },
     {
         "question": "Do you have any guidance on stress testing? -",
-        "answer": "OCC Bulletin 2012-33",
+        "truth": "OCC Bulletin 2012-33",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -65,7 +65,7 @@
     },
     {
         "question": "What should be included in stress testing? -",
-        "answer": "Stress testing should include moderate and severe scenarios using a variety of assumptions such as a change in deposit behavior, asset deterioration, interest rate changes, economic and market changes, etc. Stress testing should reflect losses over a 2 year horizon and consider any additional sources of capital and how this may diminish as the bank's financial condition deteriorates. Stress testing should be bank-tailored and completed annually.",
+        "truth": "Stress testing should include moderate and severe scenarios using a variety of assumptions such as a change in deposit behavior, asset deterioration, interest rate changes, economic and market changes, etc. Stress testing should reflect losses over a 2 year horizon and consider any additional sources of capital and how this may diminish as the bank's financial condition deteriorates. Stress testing should be bank-tailored and completed annually.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -73,7 +73,7 @@
     },
     {
         "question": "Are there any dividend restrictions? -",
-        "answer": "Yes -",
+        "truth": "Yes -",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -81,7 +81,7 @@
     },
     {
         "question": "12 USC 56 - cannot pay dividends if losses exceed undivided profits (N/A to preferred stock)\n12 USC 60(b) prior approval is required for dividends that exceed YTD NI + retained earnings of the prior 2 years\nWhy do we need concentration risk management? -",
-        "answer": "Concentrations exist when a pool of loans is sensitive to the same economic, financial, or business development factors that if triggered may cause the sum of the pool to perform as if it were a single large exposure. By implementing a sound concentration risk management program, management can identify pockets of risk that have the potential to negatively impact the bank and can appropriately measure, monitor and control that risk as behavior changes within a concentration.",
+        "truth": "Concentrations exist when a pool of loans is sensitive to the same economic, financial, or business development factors that if triggered may cause the sum of the pool to perform as if it were a single large exposure. By implementing a sound concentration risk management program, management can identify pockets of risk that have the potential to negatively impact the bank and can appropriately measure, monitor and control that risk as behavior changes within a concentration.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -89,7 +89,7 @@
     },
     {
         "question": "Do you have any guidance on concentration risk management -",
-        "answer": "OCC Bulletin 2006-46",
+        "truth": "OCC Bulletin 2006-46",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -97,7 +97,7 @@
     },
     {
         "question": "When does 2006-46 apply to us? -",
-        "answer": "The bulletin outlines enhanced risk management practices when the following concentration thresholds have been flagged: 1) Total reported loans for C&D, and other land represent 100% or more of total RBC or Total CRE loans represent 300% or more of total RBC and the CRE portfolio increased by 50% or more over the prior 36 months",
+        "truth": "The bulletin outlines enhanced risk management practices when the following concentration thresholds have been flagged: 1) Total reported loans for C&D, and other land represent 100% or more of total RBC or Total CRE loans represent 300% or more of total RBC and the CRE portfolio increased by 50% or more over the prior 36 months",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -105,7 +105,7 @@
     },
     {
         "question": "What does enhanced concentration risk management include? -",
-        "answer": "Board and management oversight, portfolio management strategies, MIS which includes monitoring against established risk",
+        "truth": "Board and management oversight, portfolio management strategies, MIS which includes monitoring against established risk",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -113,7 +113,7 @@
     },
     {
         "question": "limits, market analysis, portfolio stress testing and sensitivity analysis, stablishing CRE underwriting standards, and a credit risk review function\nWhy do we need a loan review? -",
-        "answer": "Loan review is considered a key internal control as outlined in the Loan Portfolio Management handbook and it is also mentioned in 12 CFR 30. A loan review ensures timely verification of the accuracy of your risk ratings and the effectiveness of your risk rating process. By ensuring timely risk rating identification, management will be able to identify problem loans and formulate action plans to reduce the risk to earnings and capital.",
+        "truth": "Loan review is considered a key internal control as outlined in the Loan Portfolio Management handbook and it is also mentioned in 12 CFR 30. A loan review ensures timely verification of the accuracy of your risk ratings and the effectiveness of your risk rating process. By ensuring timely risk rating identification, management will be able to identify problem loans and formulate action plans to reduce the risk to earnings and capital.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -121,7 +121,7 @@
     },
     {
         "question": "What is included in an effective loan review? -",
-        "answer": "An effective loan review independently grades/classifies loans, assessed the adequacy of internal credit policies and admin procedures and compliance with those policies, and helps determine the adequacy of the ALLL through risk rating validation.",
+        "truth": "An effective loan review independently grades/classifies loans, assessed the adequacy of internal credit policies and admin procedures and compliance with those policies, and helps determine the adequacy of the ALLL through risk rating validation.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -129,7 +129,7 @@
     },
     {
         "question": "When do we have to get an appraisal? -",
-        "answer": "12 CFR 34 - Residential RE >/= to $400M, business loan >/= $1 million, CRE >/= $500 thousand",
+        "truth": "12 CFR 34 - Residential RE >/= to $400M, business loan >/= $1 million, CRE >/= $500 thousand",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -137,7 +137,7 @@
     },
     {
         "question": "Can we use an existing appraisal? -",
-        "answer": "Yes - Bulletin 2010-42 Appraisal and Evaluation guidelines list criteria for assessing when an existing appraisal or evaluation remains valid. This includes passage of time, volatility of maket, improvement to property, changes in assumptions (cap rates, lease terms)",
+        "truth": "Yes - Bulletin 2010-42 Appraisal and Evaluation guidelines list criteria for assessing when an existing appraisal or evaluation remains valid. This includes passage of time, volatility of maket, improvement to property, changes in assumptions (cap rates, lease terms)",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -145,7 +145,7 @@
     },
     {
         "question": "Why do we need an appraisal review process? -",
-        "answer": "The appraisal review process is important because it will determine whether the methods, assumptions and values are reasonable and can be relied upon to make a sound credit decision.",
+        "truth": "The appraisal review process is important because it will determine whether the methods, assumptions and values are reasonable and can be relied upon to make a sound credit decision.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -153,7 +153,7 @@
     },
     {
         "question": "What should be included in a sound appraisal review process/policy? -",
-        "answer": "It should be independent, performed by a qualified person, reflect a risk-focused approach for determining the depth of the review, establish a process for resolving any deficiencies, and set forth documentation standards for the review,",
+        "truth": "It should be independent, performed by a qualified person, reflect a risk-focused approach for determining the depth of the review, establish a process for resolving any deficiencies, and set forth documentation standards for the review,",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -161,7 +161,7 @@
     },
     {
         "question": "Is there any guidance on appraisals/evaluations/appraisal reviews? -",
-        "answer": "Yes - 12 CFR 34 and OCC Bulletin 2010-42",
+        "truth": "Yes - 12 CFR 34 and OCC Bulletin 2010-42",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -169,7 +169,7 @@
     },
     {
         "question": "Are there any requirements if we exceed SLTV limits? -",
-        "answer": "1) report to the board quarterly 2) agg. amount of all SLTV exceptions should not exceed 100% of capital",
+        "truth": "1) report to the board quarterly 2) agg. amount of all SLTV exceptions should not exceed 100% of capital",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -177,7 +177,7 @@
     },
     {
         "question": "3) commercial, ag, multi family and other non 1-4 family are not to exceed 30% of capital\nWhat is a TDR? -",
-        "answer": "A TDR is the restructuring of a credit in which the bank, for reasons related to the borrower's financial difficulties, grants a concession to the borrower it would not otherwise consider.",
+        "truth": "A TDR is the restructuring of a credit in which the bank, for reasons related to the borrower's financial difficulties, grants a concession to the borrower it would not otherwise consider.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -185,7 +185,7 @@
     },
     {
         "question": "What is an example of a TDR -",
-        "answer": "Modification in terms such as reduce interest rate, principal or extending maturity at a stated interest rate that is lower than the current market rate for new debt with similar risks.",
+        "truth": "Modification in terms such as reduce interest rate, principal or extending maturity at a stated interest rate that is lower than the current market rate for new debt with similar risks.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -193,7 +193,7 @@
     },
     {
         "question": "What do we have to do for a TDR? -",
-        "answer": "1) Report it on schedule RC-C on the call report",
+        "truth": "1) Report it on schedule RC-C on the call report",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -201,7 +201,7 @@
     },
     {
         "question": "2) Generally be reported as a TDR until paid in full or sold/charged off\n3) Can discontinue being reported as a TDR in the calendar year after restructuring took place if restructured loan is paying as agreed at a market rate. These loan should still be deemed impaired and evaluated for impairment.\nDo you have guidance on TDRs? -",
-        "answer": "OCC Bulletin 2012-10",
+        "truth": "OCC Bulletin 2012-10",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -209,7 +209,7 @@
     },
     {
         "question": "focuses on factors to consider when evaluting loans for TDR designation and considerations for the appropriateness of accrual status and impairment analysis.\nWhat guidance governs the ALLL? -",
-        "answer": "2006-47, ASC 310-10/FAS 114 and ASC 450-20/FAS 5",
+        "truth": "2006-47, ASC 310-10/FAS 114 and ASC 450-20/FAS 5",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -217,7 +217,7 @@
     },
     {
         "question": "What is impairment? -",
-        "answer": "When a loan exhibits weaknesses where it is probable that the bank will be unable to collect all amounts due as originally agreed upon.",
+        "truth": "When a loan exhibits weaknesses where it is probable that the bank will be unable to collect all amounts due as originally agreed upon.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -225,7 +225,7 @@
     },
     {
         "question": "What does ASC 310-10/FAS 114 address? -",
-        "answer": "Reserving for impaired loans and measuring for impairment. This can be done by the 1) collateral method, 2) observable market price or 2) PV of future cash flows discounted at the loans effective interest rate.",
+        "truth": "Reserving for impaired loans and measuring for impairment. This can be done by the 1) collateral method, 2) observable market price or 2) PV of future cash flows discounted at the loans effective interest rate.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -233,7 +233,7 @@
     },
     {
         "question": "What does ASC 450-20/FAS 5 address? -",
-        "answer": "Reserving for estimated credit losses so that the inherent risk in the portfolio is accounted for. This is done by applying historical loss rates for each loan type and adjusting loss rates by Q factors to determine the overall expected loss rate.",
+        "truth": "Reserving for estimated credit losses so that the inherent risk in the portfolio is accounted for. This is done by applying historical loss rates for each loan type and adjusting loss rates by Q factors to determine the overall expected loss rate.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -241,7 +241,7 @@
     },
     {
         "question": "What are some examples of q factors? -",
-        "answer": "changes in:",
+        "truth": "changes in:",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -249,7 +249,7 @@
     },
     {
         "question": "1)loan policies or underwriting\n2)national and local economic conditions\n3) nature and volume of the portfolio\n4) experience and depth of lending staff\n5)volume and severity of past dues and problem loans\n6)quality of loan review and board oversight\n7)level and effect of concentrations\n8) the effect of competition, legal and regulatory requirements\nIs there guidance on participations? -",
-        "answer": "Yes - Bulletin 2020-81",
+        "truth": "Yes - Bulletin 2020-81",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -257,7 +257,7 @@
     },
     {
         "question": "What is required of participations? -",
-        "answer": "1)written policies and procedures",
+        "truth": "1)written policies and procedures",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -265,7 +265,7 @@
     },
     {
         "question": "2)independent analysis of credit quality\n3)agreement by seller to make full credit information available\n4) written documentation of recourse agreements - must be on pro-rata basis\nWhy do we need to formalize problem loan management? -",
-        "answer": "By formalizing this process, management will be able to closely monitor and address problem loans which will ultimately help prevent management realizing any losses.",
+        "truth": "By formalizing this process, management will be able to closely monitor and address problem loans which will ultimately help prevent management realizing any losses.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -273,7 +273,7 @@
     },
     {
         "question": "What should a problem loan management process include? -",
-        "answer": "formal policy outlining what triggers a problem asset report, what should be contained in such reports, reporting lines and frequency of reports, and assign responsibility for the completion of these reports",
+        "truth": "formal policy outlining what triggers a problem asset report, what should be contained in such reports, reporting lines and frequency of reports, and assign responsibility for the completion of these reports",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -281,7 +281,7 @@
     },
     {
         "question": "What should a PAR/CAR include? -",
-        "answer": "1) borrower and background",
+        "truth": "1) borrower and background",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -289,7 +289,7 @@
     },
     {
         "question": "2)performance, current financials\n3)collateral support and analysis\n4) action needed (work out plan)\n5) current status and payment history\nDo you have guidance on work out plans? -",
-        "answer": "Yes Bulletin 2009-32 outlines considerations for CRE problem work out plans as well as examples",
+        "truth": "Yes Bulletin 2009-32 outlines considerations for CRE problem work out plans as well as examples",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -297,7 +297,7 @@
     },
     {
         "question": "What is the purpose of the legal lending limit? -",
-        "answer": "To diversify risk to make sure there isn't excessive exposure to one or related persons and to ensure other qualified borrowers can obtain credit.",
+        "truth": "To diversify risk to make sure there isn't excessive exposure to one or related persons and to ensure other qualified borrowers can obtain credit.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -305,7 +305,7 @@
     },
     {
         "question": "How do we account for OREO expenses? -",
-        "answer": "Once written down and initially charged off the allowance. All income and expense items must be realized through an OREO valuation allowance or other non-interest income and expenses, but it can never be valued higher than the original cost basis. Real estate taxes can be capitalized during the period you are preparing the property for intended use.",
+        "truth": "Once written down and initially charged off the allowance. All income and expense items must be realized through an OREO valuation allowance or other non-interest income and expenses, but it can never be valued higher than the original cost basis. Real estate taxes can be capitalized during the period you are preparing the property for intended use.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -313,7 +313,7 @@
     },
     {
         "question": "Why do we need to track credit and underwriting exceptions? -",
-        "answer": "It is important to track and aggregate underwriting exceptions and report this to the Board so the Board can understand current risk within the portfolio and address if underwriting policies or practices need to adjusted to reflect the risk appetite of the board. A large amount of exceptions could indicate that management is operating outside of the boards risk appetite and could be taking on increased credit risk. This could negatively impact the bank if the increased level of risk they are taking on is unplanned for and uncontrolled which could ultimately negatively impact earnings and capital.",
+        "truth": "It is important to track and aggregate underwriting exceptions and report this to the Board so the Board can understand current risk within the portfolio and address if underwriting policies or practices need to adjusted to reflect the risk appetite of the board. A large amount of exceptions could indicate that management is operating outside of the boards risk appetite and could be taking on increased credit risk. This could negatively impact the bank if the increased level of risk they are taking on is unplanned for and uncontrolled which could ultimately negatively impact earnings and capital.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -321,7 +321,7 @@
     },
     {
         "question": "Why do we need a strategic plan? We are a small bank.. -",
-        "answer": "A small bank can benefit from a formal strategic plan because it will allow them to have a clear understanding of bank goals and what is needed to get there. By having a strategic plan, management can ensure risk management practices, operations, technology, personnel, funding strategies, and capital support initiatives. If these items aren't appropriately analyzed prior to implementation of strategic plans, the bank could be exposed to increased strategic risk and could cause other areas within the bank to be exposed to increased risk such as credit, reputation, compliance and so on. and this ultimately could lead to operational gaps or losses.",
+        "truth": "A small bank can benefit from a formal strategic plan because it will allow them to have a clear understanding of bank goals and what is needed to get there. By having a strategic plan, management can ensure risk management practices, operations, technology, personnel, funding strategies, and capital support initiatives. If these items aren't appropriately analyzed prior to implementation of strategic plans, the bank could be exposed to increased strategic risk and could cause other areas within the bank to be exposed to increased risk such as credit, reputation, compliance and so on. and this ultimately could lead to operational gaps or losses.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -329,7 +329,7 @@
     },
     {
         "question": "What should be included in a strategic plan? -",
-        "answer": "1)forward looking 3-5 years",
+        "truth": "1)forward looking 3-5 years",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -337,7 +337,7 @@
     },
     {
         "question": "2) assessment of risks that could impact the bank associated with initiatives\n3) consider capital, liquidity, technology and other operational needs\n4) assign responsibilities and articulate objectives and how these will be accomplished\n5) MIS needed to measure their progress\n6)be living and updated as needed\nCan our budget be our strategic plan? -",
-        "answer": "No, the budget is a short-term goal that translates your longer-term strategy. Budgets should be consistent with strategic plans.",
+        "truth": "No, the budget is a short-term goal that translates your longer-term strategy. Budgets should be consistent with strategic plans.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -345,7 +345,7 @@
     },
     {
         "question": "Do you have guidance on strategic planning? -",
-        "answer": "It's Directors handbook and the Corporate and Risk Governance Handbook",
+        "truth": "It's Directors handbook and the Corporate and Risk Governance Handbook",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -353,7 +353,7 @@
     },
     {
         "question": "Why do we need a succession plan? -",
-        "answer": "It is the board's responsibility to ensure a competent management team oversees the operations of the bank at all times. The time is takes to attract qualified individuals to fill key positions could vary and the absence of such position could result in a lapse in oversight and result in in operational errors, deficient risk management practice or other losses.",
+        "truth": "It is the board's responsibility to ensure a competent management team oversees the operations of the bank at all times. The time is takes to attract qualified individuals to fill key positions could vary and the absence of such position could result in a lapse in oversight and result in in operational errors, deficient risk management practice or other losses.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -361,7 +361,7 @@
     },
     {
         "question": "What should a succession plan include? -",
-        "answer": "1) Identify key positions and responsibilities",
+        "truth": "1) Identify key positions and responsibilities",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -369,7 +369,7 @@
     },
     {
         "question": "2) Outline process to fill these positions whether internally or externally\n3) Identify interim replacements if required\n4) review plan annually\nIt sounds like you're saying we can't pursue risky activities? -",
-        "answer": "No. Taking on additional risk is warranted only when the board and management are able to fully understand, measure, and control that risk. This includes a process of risk identification (identifying new and existing risk), risk measurement (risk assessment), risk control (risk limits, policies and procedures), and risk monitoring (timely MIS)",
+        "truth": "No. Taking on additional risk is warranted only when the board and management are able to fully understand, measure, and control that risk. This includes a process of risk identification (identifying new and existing risk), risk measurement (risk assessment), risk control (risk limits, policies and procedures), and risk monitoring (timely MIS)",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -377,7 +377,7 @@
     },
     {
         "question": "What are the combination rules in the LLL? -",
-        "answer": "Direct Benefit or common enterprise",
+        "truth": "Direct Benefit or common enterprise",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -385,7 +385,7 @@
     },
     {
         "question": "What is direct benefit -",
-        "answer": "loan proceeds or assets purchased with proceeds are transferred to another person, UNLESS bona fide arm's length transaction",
+        "truth": "loan proceeds or assets purchased with proceeds are transferred to another person, UNLESS bona fide arm's length transaction",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -393,7 +393,7 @@
     },
     {
         "question": "What is common enterprise -",
-        "answer": "1) PSOR is the same or 2) common control (25%) and financial interdependence (50% gross rev or exp) or 3) separate borrowers acquire more than 50% of voting interest in the business or 4) determined by the OCC",
+        "truth": "1) PSOR is the same or 2) common control (25%) and financial interdependence (50% gross rev or exp) or 3) separate borrowers acquire more than 50% of voting interest in the business or 4) determined by the OCC",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -401,7 +401,7 @@
     },
     {
         "question": "What are the requirements of CFR 363? (only under $1 billion) -",
-        "answer": "1) AC of outside directors majority independent of management",
+        "truth": "1) AC of outside directors majority independent of management",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -409,7 +409,7 @@
     },
     {
         "question": "3)Management report states management responsibilities for preparing financials, maintaining adequate controls over financial reporting, complying with laws/regs and an assessment of compliance with those laws/regs\nWhy should we improve/have an audit program? We are small and it's costly.. -",
-        "answer": "An effective internal audit program tests controls in place to ensure financial reporting accuracy, prevent fraud and maintain operational efficiency. While an effective audit program isn't income producing and can be costly, an effective audit program can prevent unexpected losses related to fraud, accounting errors, or a lapse in internal controls. It's also considered a key safe and sound standard outlined in 12 CFR 30",
+        "truth": "An effective internal audit program tests controls in place to ensure financial reporting accuracy, prevent fraud and maintain operational efficiency. While an effective audit program isn't income producing and can be costly, an effective audit program can prevent unexpected losses related to fraud, accounting errors, or a lapse in internal controls. It's also considered a key safe and sound standard outlined in 12 CFR 30",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -417,7 +417,7 @@
     },
     {
         "question": "What's included in an effective audit program -",
-        "answer": "1) independent assessment of controls and management information systems performed by qualified individuals",
+        "truth": "1) independent assessment of controls and management information systems performed by qualified individuals",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -425,7 +425,7 @@
     },
     {
         "question": "2)help improve and maintain the effectiveness of risk management practices, controls, and corporate governance\n3) provide board and management reasonable assurance about the accuracy of financial reporting\nWhy do | need strong internal controls -",
-        "answer": "To prevent losses related to fraud and accounting or other financial errors. Also will ensure compliance with laws and regulations. Significant noncompliance could lead to CMPs or other formal actions.",
+        "truth": "To prevent losses related to fraud and accounting or other financial errors. Also will ensure compliance with laws and regulations. Significant noncompliance could lead to CMPs or other formal actions.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -433,7 +433,7 @@
     },
     {
         "question": "Why do we need a CFP? -",
-        "answer": "A liquidity crisis can occur without warning and the bank needs to be able to respond to that in an organized and efficient manner to avoid negative public perception. By having a formal CFP, management will be able to respond to short-term and long-term liquidity needs in the event of a liquidity crisis.",
+        "truth": "A liquidity crisis can occur without warning and the bank needs to be able to respond to that in an organized and efficient manner to avoid negative public perception. By having a formal CFP, management will be able to respond to short-term and long-term liquidity needs in the event of a liquidity crisis.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -441,7 +441,7 @@
     },
     {
         "question": "What does a CFP include? -",
-        "answer": "1) triggers for implementation",
+        "truth": "1) triggers for implementation",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -449,7 +449,7 @@
     },
     {
         "question": "2) identification of plausible stress events (decline in AQ, ratings, bad press, deteriorating financial condition, etc)\n3) evaluation of those stress events under different levels of severity\n4) identification and qualification of viable funding sources in response to those events, and how these may deteriorate as the bank's condition deteriorates. (mandate testing lines)\n5) identification of roles and responsibilities to handle liquidity crisis\nDo you have guidance on CFP and stress testing? -",
-        "answer": "OCC Bulletin 2010-13 - general liquidity and fund risk management with a lot of information",
+        "truth": "OCC Bulletin 2010-13 - general liquidity and fund risk management with a lot of information",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -457,7 +457,7 @@
     },
     {
         "question": "What should be included in liquidity stress testing? -",
-        "answer": "1)mod and severe scenarios",
+        "truth": "1)mod and severe scenarios",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -465,7 +465,7 @@
     },
     {
         "question": "2)testing of different scenarios and assumptions\n3) identify contingent sources and their availability under different scenarios\n4) the effect to bank profitability\nWhy do we need a sources and uses report -",
-        "answer": "This report helps management understand their short-term liquidity position and helps them identify any liquidity shortfall or gaps that need to be addressed.",
+        "truth": "This report helps management understand their short-term liquidity position and helps them identify any liquidity shortfall or gaps that need to be addressed.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -473,7 +473,7 @@
     },
     {
         "question": "What is included in a sources and uses report? -",
-        "answer": "measure cash inflows and outflows from all applicable balance sheet items over the next 6 to 12 months",
+        "truth": "measure cash inflows and outflows from all applicable balance sheet items over the next 6 to 12 months",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -481,7 +481,7 @@
     },
     {
         "question": "Our due diligence for selecting investments consist of obtaining the moody rating, is that okay? -",
-        "answer": "No. OCC Bulletin 2012-18 states banks must perform an analysis to determine the probability of default by the obligor is low and the full timely repayment of principal and interest is expected and cannot solely depend on external credit ratings to determine if investments are investment grade. (not applied to type 1 securities since those government obligations)",
+        "truth": "No. OCC Bulletin 2012-18 states banks must perform an analysis to determine the probability of default by the obligor is low and the full timely repayment of principal and interest is expected and cannot solely depend on external credit ratings to determine if investments are investment grade. (not applied to type 1 securities since those government obligations)",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -489,7 +489,7 @@
     },
     {
         "question": "Can the bank rely on credit ratings for the classification of securities? -",
-        "answer": "No - OCC bulletin 2013- 28 outlines that classification should be based on the instrument's worth as an earning asset assuming its held to maturity. If payment of the obligation in full is in questions, then it is no longer investment grade and should be classified. Banks should continuously assess whether securities meet investment grade standard.",
+        "truth": "No - OCC bulletin 2013- 28 outlines that classification should be based on the instrument's worth as an earning asset assuming its held to maturity. If payment of the obligation in full is in questions, then it is no longer investment grade and should be classified. Banks should continuously assess whether securities meet investment grade standard.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -497,7 +497,7 @@
     },
     {
         "question": "What should be included in the investment policy? -",
-        "answer": "1) permissible investments",
+        "truth": "1) permissible investments",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -505,7 +505,7 @@
     },
     {
         "question": "2) list of broker/dealers\n3)objective should be to minimize risk, generate favorable return, provide or adequate liquidity, and meeting pledging requirements\nWhat is OTTI? -",
-        "answer": "Occurs when the investor does not expect to recover the entire cost basis of the security",
+        "truth": "Occurs when the investor does not expect to recover the entire cost basis of the security",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -513,7 +513,7 @@
     },
     {
         "question": "What must management do if they suspect OTTI? -",
-        "answer": "1) estimate fair value of securities and measure for any impairment on a quarterly basis for call report purposes",
+        "truth": "1) estimate fair value of securities and measure for any impairment on a quarterly basis for call report purposes",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -521,7 +521,7 @@
     },
     {
         "question": "2) Implement policies and procedures and require robust documentation on securities that have potential OTTI\nHow should OTTI be treated? -",
-        "answer": "Split into two parts:",
+        "truth": "Split into two parts:",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -529,7 +529,7 @@
     },
     {
         "question": "1) Credit component - amount of the total OTTI related to the credit loss which is measured by computing the PV of future CFS and writing it down through earnings\n2)noncredit-component - amount of the total OTTI related to other factors such as the remainder of the depreciation below the cost which is recognized in other comprehensive income.\nWhat's wrong with yield chasing? -",
-        "answer": "It could suggest increased interest rate risk by going out on the yield curve with a longer maturity or could suggest your buying a security lower on the credit scale which reflects increased credit risk",
+        "truth": "It could suggest increased interest rate risk by going out on the yield curve with a longer maturity or could suggest your buying a security lower on the credit scale which reflects increased credit risk",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -537,7 +537,7 @@
     },
     {
         "question": "What is repricing risk? -",
-        "answer": "Arises from timing of differences in timing of rate changes or timing of cash flows and interest earning assets don't reprice at the same time as interest bearing liabilities",
+        "truth": "Arises from timing of differences in timing of rate changes or timing of cash flows and interest earning assets don't reprice at the same time as interest bearing liabilities",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -545,7 +545,7 @@
     },
     {
         "question": "What is an embedded option? -",
-        "answer": "When the customer has the right but not the obligation to change the maturity such as prepayments in mortgages or call dates in securities.",
+        "truth": "When the customer has the right but not the obligation to change the maturity such as prepayments in mortgages or call dates in securities.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -553,7 +553,7 @@
     },
     {
         "question": "What is basis risk? -",
-        "answer": "risk that different yield curves of pricing indices do not move together",
+        "truth": "risk that different yield curves of pricing indices do not move together",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -561,7 +561,7 @@
     },
     {
         "question": "what is yield curve risk? -",
-        "answer": "arises from variations in movement of rates across the maturity spectrum",
+        "truth": "arises from variations in movement of rates across the maturity spectrum",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -569,7 +569,7 @@
     },
     {
         "question": "what is options risk -",
-        "answer": "when customer has the right but not the obligation alter the timing of cash flows",
+        "truth": "when customer has the right but not the obligation alter the timing of cash flows",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -577,7 +577,7 @@
     },
     {
         "question": "What are some limitations of a GAP model -",
-        "answer": "1) assume movements in IR during a specific time re-price all products at the same time by 100% of the amount of the IR movements",
+        "truth": "1) assume movements in IR during a specific time re-price all products at the same time by 100% of the amount of the IR movements",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -585,7 +585,7 @@
     },
     {
         "question": "2) Does not capture basis, yield curve, or options risk.\nWhy is income simulation better than GAP? -",
-        "answer": "Simulation models are able to handle variety of interest rate paths and variations in yield curve shapes. This model has the ability to capture repricing risk, basis risk, yield curve risk, and options risk (although limited)",
+        "truth": "Simulation models are able to handle variety of interest rate paths and variations in yield curve shapes. This model has the ability to capture repricing risk, basis risk, yield curve risk, and options risk (although limited)",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -593,7 +593,7 @@
     },
     {
         "question": "Why do we need to measure EVE? -",
-        "answer": "Bank's with significant medium and long-term positions should be able to assess the long-term impact of changes in interest rates on earnings and capital. If you are funding long-term assets with short-term liabilities, these mismatches likely do not show on the income simulation model and the bank should measure what this long-term exposure is. EVE helps measure long-term exposure by discounting the present value of future cash flows.",
+        "truth": "Bank's with significant medium and long-term positions should be able to assess the long-term impact of changes in interest rates on earnings and capital. If you are funding long-term assets with short-term liabilities, these mismatches likely do not show on the income simulation model and the bank should measure what this long-term exposure is. EVE helps measure long-term exposure by discounting the present value of future cash flows.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -601,7 +601,7 @@
     },
     {
         "question": "Why do we need to monitor interest rate risk? -",
-        "answer": "Interest rates have a material impact on earnings and capital and is considered a critical safe and sound standard outlined in 12 CFR 30. A bank should manage interest rate risk in a manner that is appropriate to the size of the institution; and",
+        "truth": "Interest rates have a material impact on earnings and capital and is considered a critical safe and sound standard outlined in 12 CFR 30. A bank should manage interest rate risk in a manner that is appropriate to the size of the institution; and",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -609,7 +609,7 @@
     },
     {
         "question": "provide for periodic reporting to management and the board of directors regarding interest rate risk with adequate information for management and the board of directors to assess the level of risk.\nWhat should interest rate risk management include -",
-        "answer": "1) policies and procedures for IRR management including risk limits for interest rate exposures under different environments",
+        "truth": "1) policies and procedures for IRR management including risk limits for interest rate exposures under different environments",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -617,7 +617,7 @@
     },
     {
         "question": "2)comprehensive MIS measuring IRR and valuing bank positions which includes stress testing over a variety of shocks and time horizons\n3) Report IRR results to the board\n4) monitor, document and regularly update key assumptions in IRR models\n5) periodically validate the model\nDo you have guidance on IRR management? -",
-        "answer": "Yes - OCC Bulletin 2010-1",
+        "truth": "Yes - OCC Bulletin 2010-1",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -625,7 +625,7 @@
     },
     {
         "question": "We measure IRR using a +/-200 rate shift, is this sufficient? -",
-        "answer": "No, as recent history sown us, interest rates can increase rapidly resulting in 300 and 400 basis point increases over a one year horizon. You should consider your current interest rate environement.",
+        "truth": "No, as recent history sown us, interest rates can increase rapidly resulting in 300 and 400 basis point increases over a one year horizon. You should consider your current interest rate environement.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -633,7 +633,7 @@
     },
     {
         "question": "What is model validation and why do we need it? -",
-        "answer": "Models can improve business decisions and oversight, however there could be negative consequences if business decisions are made based on models with incorrect or misused information which could lead to uncontrolled interest rate risk.",
+        "truth": "Models can improve business decisions and oversight, however there could be negative consequences if business decisions are made based on models with incorrect or misused information which could lead to uncontrolled interest rate risk.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -641,7 +641,7 @@
     },
     {
         "question": "What should a model validation include? -",
-        "answer": "1)Independent of the development or use of the model and performed by qualified persons",
+        "truth": "1)Independent of the development or use of the model and performed by qualified persons",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -649,7 +649,7 @@
     },
     {
         "question": "2)Validate all three components of the model: input, processing, and reporting\nWhat is the input component? -",
-        "answer": "delivers assumptions and data to the model",
+        "truth": "delivers assumptions and data to the model",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -657,7 +657,7 @@
     },
     {
         "question": "What is the processing component? -",
-        "answer": "transforms inputs into estimates",
+        "truth": "transforms inputs into estimates",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -665,7 +665,7 @@
     },
     {
         "question": "What is the reporting component? -",
-        "answer": "Translates estimates into useful business information",
+        "truth": "Translates estimates into useful business information",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -673,7 +673,7 @@
     },
     {
         "question": "What is required of 12 CFR 30, appendix B? -",
-        "answer": "1) written and annual board approval of ISP 2) Perform risk assessment",
+        "truth": "1) written and annual board approval of ISP 2) Perform risk assessment",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -681,7 +681,7 @@
     },
     {
         "question": "3) Ensure appropriate controls are in place (training, physical security, access controls, response programs, audit)\n4) annual report to the Board on the overall status of the ISP and compliance with regulatory guidance\nWhat should the annual report include? -",
-        "answer": "Should address material matters such as changes in risk assessment, service provider arrangements, results of testing, security breaches or violations, recommendations for changes to the ISP, and whatever else management determines to be a material matter.",
+        "truth": "Should address material matters such as changes in risk assessment, service provider arrangements, results of testing, security breaches or violations, recommendations for changes to the ISP, and whatever else management determines to be a material matter.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -689,7 +689,7 @@
     },
     {
         "question": "Why do we need a vendor management program? -",
-        "answer": "The OCC expects the bank to practice effective risk management regardless of whether the bank performs the activity internally or through a third party. The use of third parties does not release the board and managements responsibility to ensure activities are conducted in a safe and sound manner. Inadequate oversight could lead to operational losses or increased risk exposure and could negatively impact earnings and capital.",
+        "truth": "The OCC expects the bank to practice effective risk management regardless of whether the bank performs the activity internally or through a third party. The use of third parties does not release the board and managements responsibility to ensure activities are conducted in a safe and sound manner. Inadequate oversight could lead to operational losses or increased risk exposure and could negatively impact earnings and capital.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -697,7 +697,7 @@
     },
     {
         "question": "What should the vendor management program include? -",
-        "answer": "Develop policies and procedures outlining 1) how the bank will select, assess and oversee third parties 2) intital and ongoing due diligence of third parties based on their criticality 3) establish clear roles and responisbilties for overseeing third party relationships and 4) document and report to management and the board on overall status of vendors and their performance.",
+        "truth": "Develop policies and procedures outlining 1) how the bank will select, assess and oversee third parties 2) intital and ongoing due diligence of third parties based on their criticality 3) establish clear roles and responisbilties for overseeing third party relationships and 4) document and report to management and the board on overall status of vendors and their performance.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -705,7 +705,7 @@
     },
     {
         "question": "Do you have guidance on vendor risk management? -",
-        "answer": "Yes - OCC Bulletin 2013-29",
+        "truth": "Yes - OCC Bulletin 2013-29",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -713,7 +713,7 @@
     },
     {
         "question": "What are critical activities? -",
-        "answer": "Significant bank functions or services that: 1)could cause a bank to face significant risk if third party fails to meet expectations 2) could significantly impact customers",
+        "truth": "Significant bank functions or services that: 1)could cause a bank to face significant risk if third party fails to meet expectations 2) could significantly impact customers",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -721,7 +721,7 @@
     },
     {
         "question": "3)could have major impact on bank operations if the bank would need to find an alternative vendor or bring that activity in house.\nWhat is a MRA? -",
-        "answer": "These are practices or lack of practices that deviate from sound governance, internal controls and risk management policies that could negatively impact earnings and capital if left uncorrected or result in substantive noncompliance with laws and regulations, internal policies or processes, or OCC supervisory guidance.",
+        "truth": "These are practices or lack of practices that deviate from sound governance, internal controls and risk management policies that could negatively impact earnings and capital if left uncorrected or result in substantive noncompliance with laws and regulations, internal policies or processes, or OCC supervisory guidance.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -729,7 +729,7 @@
     },
     {
         "question": "When would an informal action be used? -",
-        "answer": "When the overall condition of the bank is sound and reasonable assurance management will correct deficiencies",
+        "truth": "When the overall condition of the bank is sound and reasonable assurance management will correct deficiencies",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -737,7 +737,7 @@
     },
     {
         "question": "when should a formal action be used? -",
-        "answer": "Generally implied when the composite is 3 or worse. Used when bank is experiencing significant problems, have substantial noncompliance with laws and regulations, serious insider abuse, and material noncompliance with prior communications to take corrective action.",
+        "truth": "Generally implied when the composite is 3 or worse. Used when bank is experiencing significant problems, have substantial noncompliance with laws and regulations, serious insider abuse, and material noncompliance with prior communications to take corrective action.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -745,7 +745,7 @@
     },
     {
         "question": "What can the bank appeal? -",
-        "answer": "Exam ratings, adequacy of ALLL and methodology, individual loan ratings, violations, MRAs, compliance with EA, or other ROE conclusions",
+        "truth": "Exam ratings, adequacy of ALLL and methodology, individual loan ratings, violations, MRAs, compliance with EA, or other ROE conclusions",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -753,7 +753,7 @@
     },
     {
         "question": "What can't the bank appeal? -",
-        "answer": "Prelim ratings, appointment of recievership/conservators, formal EA and CMPS",
+        "truth": "Prelim ratings, appointment of recievership/conservators, formal EA and CMPS",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -761,7 +761,7 @@
     },
     {
         "question": "What happens when the composite is downgraded to a 3? -",
-        "answer": "Frequency of exams increased to a 12 month period, at least. All findings and conclusions will go through a secondary review process known as the district supervisory review committee or DSRC. Enforcement actions are likely although this will formally be discuss with the supervisory office and legal team before a decision is made.",
+        "truth": "Frequency of exams increased to a 12 month period, at least. All findings and conclusions will go through a secondary review process known as the district supervisory review committee or DSRC. Enforcement actions are likely although this will formally be discuss with the supervisory office and legal team before a decision is made.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -769,7 +769,7 @@
     },
     {
         "question": "Who qualifies for an 18 month cycle? -",
-        "answer": "1) TA <$3billion",
+        "truth": "1) TA <$3billion",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -777,7 +777,7 @@
     },
     {
         "question": "2) well-cap\n3) 1 or 2 rated management and composite\n4) not subject to FA\n5) no person acquired control during the preceding 12 months.\nWhat does special mention mean? -",
-        "answer": "Has potential weaknesses that if left uncorrected may result in the deterioration of repayment prospects or the bank's credit position",
+        "truth": "Has potential weaknesses that if left uncorrected may result in the deterioration of repayment prospects or the bank's credit position",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -785,7 +785,7 @@
     },
     {
         "question": "What does substandard mean? -",
-        "answer": "Asset has well-defined weaknesses that jeopardize the liquidation of the debt and there is a possibility the bank can sustain some loss if these are left uncorrected.",
+        "truth": "Asset has well-defined weaknesses that jeopardize the liquidation of the debt and there is a possibility the bank can sustain some loss if these are left uncorrected.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -793,7 +793,7 @@
     },
     {
         "question": "What does doubtful mean? -",
-        "answer": "Same weaknesses as a substandard with the added characteristic that collection or liquidation in full based on current facts is highly questionable or improbable",
+        "truth": "Same weaknesses as a substandard with the added characteristic that collection or liquidation in full based on current facts is highly questionable or improbable",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -801,7 +801,7 @@
     },
     {
         "question": "What is a loss asset? -",
-        "answer": "Deemed uncollectable and have such little value that is should not longer be a bankable asset.",
+        "truth": "Deemed uncollectable and have such little value that is should not longer be a bankable asset.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -809,7 +809,7 @@
     },
     {
         "question": "What does non-accrual mean? -",
-        "answer": "A loan exhbits severe problems where full collection of P&I is highly questionable",
+        "truth": "A loan exhbits severe problems where full collection of P&I is highly questionable",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -817,7 +817,7 @@
     },
     {
         "question": "When should it be placed on nonaccrual? -",
-        "answer": "1)Loan is carried on a cash basis due to deterioration in the borrower's financial condition",
+        "truth": "1)Loan is carried on a cash basis due to deterioration in the borrower's financial condition",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -825,7 +825,7 @@
     },
     {
         "question": "2) payment in full of P&I is not expected\n3) When P&I is 90 days or more past due unless it is both well secured and in the process of collection\nWhen can a loan go back on accrual? -",
-        "answer": "1) All P&I (including chare offs) is paid and you expect repayment of remaining contractual P&l",
+        "truth": "1) All P&I (including chare offs) is paid and you expect repayment of remaining contractual P&l",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -833,7 +833,7 @@
     },
     {
         "question": "2)It becomes well-secured and in the process of collection\n3) Borrower resumes making payments for a sustained period of time (6 months) and all contractually due P&l is assured within a reasonable time\nCan you capitalize interest? -",
-        "answer": "Yes but not when nonaccrual. Must consider that all amounts due can be repaid.",
+        "truth": "Yes but not when nonaccrual. Must consider that all amounts due can be repaid.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -841,7 +841,7 @@
     },
     {
         "question": "What is the difference between informal and formal actions? -",
-        "answer": "Informal is less severe and not legally enforceable, are not public and generally entered into consent while formal actions are more severe and designed to address significant problems or noncompliance.",
+        "truth": "Informal is less severe and not legally enforceable, are not public and generally entered into consent while formal actions are more severe and designed to address significant problems or noncompliance.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -849,7 +849,7 @@
     },
     {
         "question": "What is a curtailment? -",
-        "answer": "A periodic principal reduction by the dealer for stale inventory",
+        "truth": "A periodic principal reduction by the dealer for stale inventory",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -857,7 +857,7 @@
     },
     {
         "question": "Why should we have a curtailment requirement? -",
-        "answer": "Help protect the bank's collateral position in the loan so as collateral depreciates in value, curtailment requirements either match or exceed that depreciation and ensures the bank remains adequately protected.",
+        "truth": "Help protect the bank's collateral position in the loan so as collateral depreciates in value, curtailment requirements either match or exceed that depreciation and ensures the bank remains adequately protected.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -865,7 +865,7 @@
     },
     {
         "question": "What is a borrowing base certificate? -",
-        "answer": "Its a tool that controls the amount the bank is willing to advance based on current collateral condition and values",
+        "truth": "Its a tool that controls the amount the bank is willing to advance based on current collateral condition and values",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -873,7 +873,7 @@
     },
     {
         "question": "Why should we have a borrowing base? -",
-        "answer": "By limiting the amount you advance to a borrowing base will provide the bank with greater reassurance of full repayment from the value of collateral if something were to happen.",
+        "truth": "By limiting the amount you advance to a borrowing base will provide the bank with greater reassurance of full repayment from the value of collateral if something were to happen.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -881,7 +881,7 @@
     },
     {
         "question": "What does a credit risk review system include? (rely on this for loan review) -",
-        "answer": "2020-50 - credit risk review systems",
+        "truth": "2020-50 - credit risk review systems",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -889,7 +889,7 @@
     },
     {
         "question": "1)promptly identifies loans with actual or potential weaknesses\n2)validates and adjusts risk ratings as necessary\n3)Identifies relevant trends that affect the quality of the loan portfolio\n4)assess the adequacy and adherence to internal credit policies\n5)evaluates activities of lending personnel and management, including compliance with lending policies and approvals\n6)provides management and board with objective, indepedent and timely assessment of overall quality of loan portfolio\n7)determines appropriateness of ALLL or ACL\nWhy do we need a credit risk review system? -",
-        "answer": "A credit risk review systems ensures timely oversight of credits and their performance and ensures management is appropriately understanding and rating the risk within each credit. This helps the bank control the relationship and correct any deficiencies before its too late and ultimately helps minimize losses.",
+        "truth": "A credit risk review systems ensures timely oversight of credits and their performance and ensures management is appropriately understanding and rating the risk within each credit. This helps the bank control the relationship and correct any deficiencies before its too late and ultimately helps minimize losses.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -897,7 +897,7 @@
     },
     {
         "question": "Do you have any guidance on investment security risk management? -",
-        "answer": "1998-20 policy statement on investment securities",
+        "truth": "1998-20 policy statement on investment securities",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -905,7 +905,7 @@
     },
     {
         "question": "What does investment security risk management include? -",
-        "answer": "1)Board and management must understand and control risks in investment activities",
+        "truth": "1)Board and management must understand and control risks in investment activities",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -913,7 +913,7 @@
     },
     {
         "question": "2) Board must establish investment policies and limits\n3)policies should limit concentrations, types of securities permissible, broker dealers, and must be liquid\n3)MIS tracking compliance and risk exposures\n4)pre-purchase analysis of investments\n5)periodic audits\nExam frequency NB -",
-        "answer": "‘) Every 12 months",
+        "truth": "‘) Every 12 months",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -921,7 +921,7 @@
     },
     {
         "question": "2) can be 18 months if: TA>$3B, well cap, 1 or 2 management and composition, no formal proceedings, no person acquired control within 12 months\nExam frequency Denovo/convertered -",
-        "answer": "1) remain on 12 months until it: has 3 full scope exams and has operated for 3 years, achieves stability with regards to earnings, core business operations, and management, and must meet other requirements to go to 18 month cycle",
+        "truth": "1) remain on 12 months until it: has 3 full scope exams and has operated for 3 years, achieves stability with regards to earnings, core business operations, and management, and must meet other requirements to go to 18 month cycle",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -929,7 +929,7 @@
     },
     {
         "question": "2) converted -- must get full scope review within 12 months from the date of last full scope\nwhat does nonaccrual mean? -",
-        "answer": "Nonaccrual is an accounting treatment which payments are applied directly to principal. Loans are placed on NA because there is doubt of full collectability of P&I",
+        "truth": "Nonaccrual is an accounting treatment which payments are applied directly to principal. Loans are placed on NA because there is doubt of full collectability of P&I",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -937,7 +937,7 @@
     },
     {
         "question": "what is impairment? -",
-        "answer": "when you don't expect to receive full amount of contractual principal and interest",
+        "truth": "when you don't expect to receive full amount of contractual principal and interest",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -945,7 +945,7 @@
     },
     {
         "question": "What is CECL? -",
-        "answer": "New accounting standard where the bank must estimate and book expected credit losses over the life of a loan at origination unlike the current standard which relies on incurred",
+        "truth": "New accounting standard where the bank must estimate and book expected credit losses over the life of a loan at origination unlike the current standard which relies on incurred",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -953,7 +953,7 @@
     },
     {
         "question": "losses. Considers three key items: historical loss experience, current condition, and reasonable and supportable forecasts that affect the collectability of the loan\nexamples of informal enforcement actions -",
-        "answer": "1) board resolutions",
+        "truth": "1) board resolutions",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -961,7 +961,7 @@
     },
     {
         "question": "2)commitment letters\n3) memoranda of understanding\nWhat are some good liquidity risk limits? -",
-        "answer": "on hand liqudiity, reliance on wholesale funds, concentrations in fundings sources, loan to deposit.",
+        "truth": "on hand liqudiity, reliance on wholesale funds, concentrations in fundings sources, loan to deposit.",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -969,7 +969,7 @@
     },
     {
         "question": "What is the RAS and what is it used for? -",
-        "answer": "Its a system of measuring keys risks to earnings and capital and assists us with scoping examination activities. We measure the current condition of the bank (quantity), the quality of risk management and how risks are identified, measured, controlled and monitored, the aggregate risk which reflects the level of supervisory concern, and the direction of risk which represents the probable movement in this risk over the next 12 months",
+        "truth": "Its a system of measuring keys risks to earnings and capital and assists us with scoping examination activities. We measure the current condition of the bank (quantity), the quality of risk management and how risks are identified, measured, controlled and monitored, the aggregate risk which reflects the level of supervisory concern, and the direction of risk which represents the probable movement in this risk over the next 12 months",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -977,7 +977,7 @@
     },
     {
         "question": "What does the ALLL cover -",
-        "answer": "estimated credit losses on individually evaluated loans that are determined impaired as well as estimated credit losses inherent in the remainder of the portfolio",
+        "truth": "estimated credit losses on individually evaluated loans that are determined impaired as well as estimated credit losses inherent in the remainder of the portfolio",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -985,7 +985,7 @@
     },
     {
         "question": "What are the minimum requirements of an appraisal? -",
-        "answer": "1)conform to generally accepted appraisal standards under USPAP",
+        "truth": "1)conform to generally accepted appraisal standards under USPAP",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -993,7 +993,7 @@
     },
     {
         "question": "2)Be written and contain sufficient information and analysis to support the credit decision\n3)Be subject to appropriate review for compliance with USPAP\n4)be based upon the definition of market value\n5) be performed by state licensed or certified appraiser\nWhy is the impact on economic value significant? -",
-        "answer": "because it measures a bank's true capital solvency and reflects the net value of a bank upon liquidation or forced sale",
+        "truth": "because it measures a bank's true capital solvency and reflects the net value of a bank upon liquidation or forced sale",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"
@@ -1001,7 +1001,7 @@
     },
     {
         "question": "How should the interest portion on a NA loan be handled? -",
-        "answer": "1)put to principal UNLESS 2)remaining principal balance is not in doubt, interest income can be recieved on a cash basis",
+        "truth": "1)put to principal UNLESS 2)remaining principal balance is not in doubt, interest income can be recieved on a cash basis",
         "source": {
             "title": "UCE Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5577375-uce-exam-questions-en-answers-20242025.pdf"

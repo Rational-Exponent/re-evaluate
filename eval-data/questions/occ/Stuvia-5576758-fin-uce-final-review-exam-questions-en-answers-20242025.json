@@ -1,7 +1,7 @@
 [
     {
         "question": "Standard deviation measures risk, and beta is a measure of a risk. -",
-        "answer": "Total; systematic",
+        "truth": "Total; systematic",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -9,7 +9,7 @@
     },
     {
         "question": "Which of the following is true if current liabilities increase? Assume all else is constant, and all ratios have positive values -",
-        "answer": "The quick ratio will decrease",
+        "truth": "The quick ratio will decrease",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -17,7 +17,7 @@
     },
     {
         "question": "You are considering two investment options that each provides $12,000 of income. Option1 pays $2,000 in the first year followed by two annual payments of $5,000 each. Option 2pays three annual payments of $4,000 each. Using a 5% discount rate, compounded annually, which option would you choose? -",
-        "answer": "",
+        "truth": "",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -25,7 +25,7 @@
     },
     {
         "question": "Which of the following is the best example of an agency conflict? Where applicable, assume the company reimburses the employee's travel expenses. -",
-        "answer": "Leila (Marketing Director) travels to Disney in Florida with her friends and theirfamilies. While in Orlando, she talks to her friends about her company's strategy toreduce costs. Leila's company reimbursed travel expenses for her trip to Disney",
+        "truth": "Leila (Marketing Director) travels to Disney in Florida with her friends and theirfamilies. While in Orlando, she talks to her friends about her company's strategy toreduce costs. Leila's company reimbursed travel expenses for her trip to Disney",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -33,7 +33,7 @@
     },
     {
         "question": "The difference between real rates and nominal rates is in the adjustment for which of the following? -",
-        "answer": "Inflation risk",
+        "truth": "Inflation risk",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -41,7 +41,7 @@
     },
     {
         "question": "Which of the following are examples of systematic risk?\n|. Due to a coronavirus outbreak, forty million people filed for unemployment\nll. Hertz Incorporated filed for bankruptcy protection and cut its dividend to$0.\nIll. Most companies were negatively impacted by the 2008 recession.\nIV. The U.S. Justice Department recently filed an antitrust lawsuit against Google -",
-        "answer": "1 & 3",
+        "truth": "1 & 3",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -49,7 +49,7 @@
     },
     {
         "question": "When a company is making business decisions ethically, this can:\na. Lower the probability of criminal charges and lawsuits.’\nb. Lead to higher market-to-book ratios.\nc. Result in increased transparency.\nd. All of the above. -",
-        "answer": "D",
+        "truth": "D",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -57,7 +57,7 @@
     },
     {
         "question": "Interest rate risk premium: -",
-        "answer": "reflects the compensation that investors demand for acceptant the risk that bond prices may decline",
+        "truth": "reflects the compensation that investors demand for acceptant the risk that bond prices may decline",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -65,7 +65,7 @@
     },
     {
         "question": "TGR Builders, Inc. is financed with 38 percent debt and 62 percent equity. This information refers to: -",
-        "answer": "Capital Structure",
+        "truth": "Capital Structure",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -73,7 +73,7 @@
     },
     {
         "question": "Which of the following statements are correct about diversifiable risk?\n|. Diversifiable risks are associated with individual firms\nll. Diversifiable risk is an equivalent to market risk\nIll. Under CAPM, there is no reward for accepting this type of risk\nIV.A portfolio of thirty securities is free of diversifiable risk -",
-        "answer": "1 and 3",
+        "truth": "1 and 3",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -81,7 +81,7 @@
     },
     {
         "question": "Which of the following statements about standard deviation of stock returns is correct? 1 -",
-        "answer": "Standard deviation measures how widely stock returns are dispersed from the average return over a certain period of time",
+        "truth": "Standard deviation measures how widely stock returns are dispersed from the average return over a certain period of time",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -89,7 +89,7 @@
     },
     {
         "question": "Consider a project with an initial investment and positive cash flows in the next 5 years. If the discount rate increases -",
-        "answer": "IRR remains constant, while the NPV decreases",
+        "truth": "IRR remains constant, while the NPV decreases",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -97,7 +97,7 @@
     },
     {
         "question": "Christmas Décor makes handmade holiday decorations. They are considering making baskets with treats as well. Which of the following should be included in their capital budgeting analysis? -",
-        "answer": "Hiring additional employees to handle the increased workload, if the firm pursues this project idea",
+        "truth": "Hiring additional employees to handle the increased workload, if the firm pursues this project idea",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -105,7 +105,7 @@
     },
     {
         "question": "Which of the following bonds will experience the largest percentage change in price, when interest rates increase?\na. 1-year; 6-percent coupon\nb. 1-year; 8-percent coupon\nc. 5-year; 6-percent coupon\nd. 5-year; 8-percent coupon -",
-        "answer": "Longer term lower coupon rate C",
+        "truth": "Longer term lower coupon rate C",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -113,7 +113,7 @@
     },
     {
         "question": "Which of the following statements is correct?\na. A saver will earn more if the compounding periods are less frequent than if they are more frequent.\nb. The effective annual rate decreases when the number of compounding periods per year increases\n.c. When interest is compounded annually, the effective annual rate will be the same as the APR.\nd. A loan with quarterly compounding will have a lower balance in one year than one with annual compounding if the APR on both loans are equal.\ne. When comparing loans, a borrower should compare the nominal or quoted annual percentage rate to determine which loan is best. -",
-        "answer": "",
+        "truth": "",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -121,7 +121,7 @@
     },
     {
         "question": "An upward-sloping term structure of interest rates indicates 7: -",
-        "answer": "The nominal rate is increasing even though the real rate is constant as the time to maturity increases",
+        "truth": "The nominal rate is increasing even though the real rate is constant as the time to maturity increases",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -129,7 +129,7 @@
     },
     {
         "question": "Which one of the following is most apt to have the smallest liquidity premium? -",
-        "answer": "Treasury Bill",
+        "truth": "Treasury Bill",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -137,7 +137,7 @@
     },
     {
         "question": "Which one of the following is an example of diversifiable risk? -",
-        "answer": "The employees of Textile, Inc. just voted to go on strike",
+        "truth": "The employees of Textile, Inc. just voted to go on strike",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -145,7 +145,7 @@
     },
     {
         "question": "The primary purpose of portfolio diversification is to: -",
-        "answer": "eliminate idiosyncratic risk.",
+        "truth": "eliminate idiosyncratic risk.",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -153,7 +153,7 @@
     },
     {
         "question": "Which of the following statements about standard deviation of stock returns is correct? -",
-        "answer": "Standard deviation measures volatility of stock returns",
+        "truth": "Standard deviation measures volatility of stock returns",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -161,7 +161,7 @@
     },
     {
         "question": "You spent $3,000 last week fixing the transmission in your car. Now, the driver's side power window is refusing to close and you are trying to decide whether to fix it or not. In analyzing this situation, the $3,000 you spent fixing the transmission is a(n) cost -",
-        "answer": "sunk",
+        "truth": "sunk",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -169,7 +169,7 @@
     },
     {
         "question": "The primary goal of financial management is to: -",
-        "answer": "Maximize the current value per share of the existing stock",
+        "truth": "Maximize the current value per share of the existing stock",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -177,7 +177,7 @@
     },
     {
         "question": "Which of the following statements is correct?\nThe risk premium on a risk-free security is generally considered to be one percent.\nb. There is an inverse relation between the level of risk and the risk premium.\nc. If a risky security is undervalued, it will be above the Security Market Line.\nd. If a risky security is correctly priced, it will be below the Security Market Line. -",
-        "answer": "If a risky security is undervalued, it will be above the Security Market Line",
+        "truth": "If a risky security is undervalued, it will be above the Security Market Line",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -185,7 +185,7 @@
     },
     {
         "question": "Consider two mutually exclusive projects with conventional cash flows. The IRRs of projects A and B are 10% and 15% respectively. Which of the following statements is true about the net present values of the two projects? -",
-        "answer": "It is possible for either Project A or Project B to have the higher NPV, depending on the discount rate (i.e., the cost of capital).",
+        "truth": "It is possible for either Project A or Project B to have the higher NPV, depending on the discount rate (i.e., the cost of capital).",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -193,7 +193,7 @@
     },
     {
         "question": "Your uncle would like to restrict his interest rate risk and his default risk, but he still would like to invest in corporate bonds. Which of the possible bonds listed below best satisfies your uncle's criteria?\nAA bond with 20 years to maturity. b. BB perpetual bond. c. BB bond with 10 years to maturity. d. AA bond with 8 years to maturity. -",
-        "answer": "AA bond with 8 years to maturity.",
+        "truth": "AA bond with 8 years to maturity.",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -201,7 +201,7 @@
     },
     {
         "question": "According to the following information, which of the stocks would be considered riskiest in a diversified portfolio of investments? -",
-        "answer": "Stock BTW, because it has the highest beta",
+        "truth": "Stock BTW, because it has the highest beta",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -209,7 +209,7 @@
     },
     {
         "question": "When one shareholder sells stock directly to another, the transaction is said to occur in the: -",
-        "answer": "secondary market",
+        "truth": "secondary market",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -217,7 +217,7 @@
     },
     {
         "question": "Is it ethical for a firm to intentionally understate sales and profits? -",
-        "answer": "No. Understated profits could cause estimates of future cash flows to be too low, reducing the stock price and hurting any shareholder who sells the stock.",
+        "truth": "No. Understated profits could cause estimates of future cash flows to be too low, reducing the stock price and hurting any shareholder who sells the stock.",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -225,7 +225,7 @@
     },
     {
         "question": "An amortized loan: -",
-        "answer": "requires that all payments be equal in amount and include both principle and interest",
+        "truth": "requires that all payments be equal in amount and include both principle and interest",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -233,7 +233,7 @@
     },
     {
         "question": "The Capital Asset Pricing Model (CAPM) assumes that:\n|. a risk-free asset has no systematic risk.\nll. standard deviation measures systematic risk.\nlll. the risk-to-reward ratio is constant.\nIV. a risk-free asset generally has a positive rate of return. -",
-        "answer": "1 3 4",
+        "truth": "1 3 4",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -241,7 +241,7 @@
     },
     {
         "question": "Which of the following will increase the profit margin of a firm, all else held constant? -",
-        "answer": "Decrease in tax rate",
+        "truth": "Decrease in tax rate",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -249,7 +249,7 @@
     },
     {
         "question": "All else equal, risk averse investors generally require returns to purchase investments with risks -",
-        "answer": "higher higher",
+        "truth": "higher higher",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -257,7 +257,7 @@
     },
     {
         "question": "Which of the following statements is FALSE?\na. Present values and discount rates are inversely related.\nb. On a daily compounded loan, the EAR will exceed the APR.\nc. Compounding means earning interest on interest.\nd. Future values increase with rising interest rates.\ne. Based on the constant dividend growth model, the higher the dividend growth rate, the lower the stock valuation. -",
-        "answer": "Based on the constant dividend growth model, the higher the dividend growth rate, the lower the stock valuation.",
+        "truth": "Based on the constant dividend growth model, the higher the dividend growth rate, the lower the stock valuation.",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -265,7 +265,7 @@
     },
     {
         "question": "Last year, U.S. Treasury bills returned 1.75%, and your investment in small-capitalization company stocks earned 8.5%, on average. The difference between these two rates of return is the -",
-        "answer": "Risk premium",
+        "truth": "Risk premium",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -273,7 +273,7 @@
     },
     {
         "question": "Which of the following is included in a company's market value, but not in the firm's accounting or book value? -",
-        "answer": "The excellent reputation of the company",
+        "truth": "The excellent reputation of the company",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -281,7 +281,7 @@
     },
     {
         "question": "Ranking conflicts can arise if one relies on IRR instead of NPV when -",
-        "answer": "Projects are mutually exclusive.",
+        "truth": "Projects are mutually exclusive.",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -289,7 +289,7 @@
     },
     {
         "question": "Top Notch Co, inc. is preparing a bond offering with a 5% semi-annual coupon. These bonds will be repaid in 10 years with a face value of $1,000. Which of the following statements are correct -",
-        "answer": "",
+        "truth": "",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -297,7 +297,7 @@
     },
     {
         "question": "The shareholders of Qiang's Markets would benefit if the firm were to be acquired by Better Foods. However, Weil's board of directors rejects the acquisition offer. This is an example of: -",
-        "answer": "an agency conflict.",
+        "truth": "an agency conflict.",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -305,7 +305,7 @@
     },
     {
         "question": "Which one of the following is a capital structure decision? -",
-        "answer": "Establishing the preferred debt- equity level",
+        "truth": "Establishing the preferred debt- equity level",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -313,7 +313,7 @@
     },
     {
         "question": "The future value of a lump-sum investment will increase if you: -",
-        "answer": "increase the time period.",
+        "truth": "increase the time period.",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -321,7 +321,7 @@
     },
     {
         "question": "Which one of the following will increase the present value of a lump-sum future amount to be received in 15 years? -",
-        "answer": "A decrease in the interest rate",
+        "truth": "A decrease in the interest rate",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -329,7 +329,7 @@
     },
     {
         "question": "Which one of the following is a correct statement, all else held constant? -",
-        "answer": "The future value is directly related to the interest rate.",
+        "truth": "The future value is directly related to the interest rate.",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -337,7 +337,7 @@
     },
     {
         "question": "The EAR, rather than the APR, -",
-        "answer": "should be used to compare both investment and loan options.",
+        "truth": "should be used to compare both investment and loan options.",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -345,7 +345,7 @@
     },
     {
         "question": "The systematic risk principle states that the expected return on a risky asset depends only on the asset's blank risk. -",
-        "answer": "market",
+        "truth": "market",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -353,7 +353,7 @@
     },
     {
         "question": "Pro forma financial statements are: -",
-        "answer": "Projected accounting statements based on a sales forecast and other assumptions",
+        "truth": "Projected accounting statements based on a sales forecast and other assumptions",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -361,7 +361,7 @@
     },
     {
         "question": "All else the same, if interest rates fall, then -",
-        "answer": "the percentage price change for long-term bonds will be greater than for short-term bonds",
+        "truth": "the percentage price change for long-term bonds will be greater than for short-term bonds",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -369,7 +369,7 @@
     },
     {
         "question": "A bond will sell at a premium if: -",
-        "answer": "the yield to maturity is below the coupon rate of the bond",
+        "truth": "the yield to maturity is below the coupon rate of the bond",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -377,7 +377,7 @@
     },
     {
         "question": "A bond will sell at a discount if -",
-        "answer": "its required return or discount rate is greater than its coupon rate.",
+        "truth": "its required return or discount rate is greater than its coupon rate.",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -385,7 +385,7 @@
     },
     {
         "question": "projects compete with each other; the acceptance of one the others from consideration -",
-        "answer": "Mutually exclusive; eliminates",
+        "truth": "Mutually exclusive; eliminates",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -393,7 +393,7 @@
     },
     {
         "question": "Standard deviation measures -",
-        "answer": "total risk.",
+        "truth": "total risk.",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -401,7 +401,7 @@
     },
     {
         "question": "Beta measures -",
-        "answer": "systematic risk",
+        "truth": "systematic risk",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -409,7 +409,7 @@
     },
     {
         "question": "Bond K has 9 years to maturity, priced at $916.85, and has a par value of $1,000. Based on this information -",
-        "answer": "Discount Bond",
+        "truth": "Discount Bond",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -417,7 +417,7 @@
     },
     {
         "question": "A bond covenant can place -",
-        "answer": "constraints on a firm's ability to pay dividends.",
+        "truth": "constraints on a firm's ability to pay dividends.",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -425,7 +425,7 @@
     },
     {
         "question": "Which of the following items is not a cash expenditure, but is still a deductible expense for income tax purposes? -",
-        "answer": "Depreciation expense.",
+        "truth": "Depreciation expense.",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -433,7 +433,7 @@
     },
     {
         "question": "Shareholder wealth is typically measured as: -",
-        "answer": "the number of shares outstanding times market price per share.",
+        "truth": "the number of shares outstanding times market price per share.",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -441,7 +441,7 @@
     },
     {
         "question": "If the discount rate is zero -",
-        "answer": "the present value of an amount will equal its future value",
+        "truth": "the present value of an amount will equal its future value",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -449,7 +449,7 @@
     },
     {
         "question": "Holding everything else constant, which of the following is a source of cash? -",
-        "answer": "A decrease in inventories.",
+        "truth": "A decrease in inventories.",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -457,7 +457,7 @@
     },
     {
         "question": "Your company generates $0.97 in sales for every $1 invested in total assets. Which one of the following ratios would reflect this relationship? -",
-        "answer": "Total asset turnover",
+        "truth": "Total asset turnover",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -465,7 +465,7 @@
     },
     {
         "question": "A major disadvantage of the payback period method is that it -",
-        "answer": "lgnores cash flows beyond the payback period.",
+        "truth": "lgnores cash flows beyond the payback period.",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -473,7 +473,7 @@
     },
     {
         "question": "Does not directly account for the time value of money\nA real rate of return is defined as a rate that has been adjusted for -",
-        "answer": "Inflation",
+        "truth": "Inflation",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -481,7 +481,7 @@
     },
     {
         "question": "Bond ratings classify bonds based on -",
-        "answer": "default risk only",
+        "truth": "default risk only",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -489,7 +489,7 @@
     },
     {
         "question": "The length of time required for an investment to generate cash flows sufficient to recover its initial cost is the: -",
-        "answer": "payback period.",
+        "truth": "payback period.",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -497,7 +497,7 @@
     },
     {
         "question": "In the CAPM, the risk premium depends primarily on risk. -",
-        "answer": "systematic",
+        "truth": "systematic",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -505,7 +505,7 @@
     },
     {
         "question": "market risk premium -",
-        "answer": "Slope of the security market line; the difference between the expected return on a market portfolio and the risk-free rate.",
+        "truth": "Slope of the security market line; the difference between the expected return on a market portfolio and the risk-free rate.",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -513,7 +513,7 @@
     },
     {
         "question": "Net present Value -",
-        "answer": "The difference between an investments market value and its cost",
+        "truth": "The difference between an investments market value and its cost",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -521,7 +521,7 @@
     },
     {
         "question": "nominal rates -",
-        "answer": "interest rates or rates of return that have not been adjusted for inflation",
+        "truth": "interest rates or rates of return that have not been adjusted for inflation",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -529,7 +529,7 @@
     },
     {
         "question": "Risk premium -",
-        "answer": "the excess return required from an investment in a risky asset over that required from a risk-free investment",
+        "truth": "the excess return required from an investment in a risky asset over that required from a risk-free investment",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -537,7 +537,7 @@
     },
     {
         "question": "Sole Proprietorship -",
-        "answer": "Business owned by a single individual. Simplest type of business to start; least regulated'",
+        "truth": "Business owned by a single individual. Simplest type of business to start; least regulated'",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -545,7 +545,7 @@
     },
     {
         "question": "unlimited liability\nhard to transfer ownership\nPartnership: -",
-        "answer": "Business formed by two or more individuals or entities",
+        "truth": "Business formed by two or more individuals or entities",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
@@ -553,7 +553,7 @@
     },
     {
         "question": "all partners share in gains or losses\nlimited liability to partners asset\nin agreemnt\nUnlimitied to generarl limited to limited partners\nCorporation: -",
-        "answer": "Ininfite lifetime, profits dividends, easy to trade shoars",
+        "truth": "Ininfite lifetime, profits dividends, easy to trade shoars",
         "source": {
             "title": "FIN UCE Final Review Exam Questions & Answers 2024/2025",
             "file_name": "Stuvia-5576758-fin-uce-final-review-exam-questions-en-answers-20242025.pdf"
