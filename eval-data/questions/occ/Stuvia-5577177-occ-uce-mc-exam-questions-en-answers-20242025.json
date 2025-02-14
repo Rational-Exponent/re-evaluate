@@ -1,0 +1,434 @@
+[
+    {
+        "question": "A bank's risk measurement tools should be able to capture the exposure from embedded options. Which three products contain embedded options? (Choose Three)\nA. Structured Notes\nB. US Treasury Bonds\nC. Overnight FFS\nD. MBSs\nE. MMDAs -",
+        "truth": "Structured Notes, MBSs, MMDAs.",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "A Board policy that established extremely low tolerances for IRR is likely to affect the bank in what way?\nA. Increases the bank's Basis Risk\nB. Reduces the Bank's dependence on core deposits\nC. Reduces the bank's ability to generate high returns\nD. Increases the bank's return volatility -",
+        "truth": "C. Reduces the bank's ability to generate high returns",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Interest rate risk related reports reviewed by senior management and the Board, or committee thereof, should include which three of the following? (Choose three.)\nA. the amount of interest rate risk taken\nB. compliance with established risk limits\nC. management's strategies relative to wholesale funding dependency\nD. appropriateness of management's strategies in light of the Board's risk tolerance -",
+        "truth": "A. the amount of interest rate risk taken",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "B. compliance with established risk limits\nD. appropriateness of management's strategies in light of the Board's risk tolerance\nWhich three reports are used to monitor and manage IRR?\nA. Gap Report\nB. Budget Variance Report\nC. Duration Analysis Report\nD. Simulation Model Report\nE. Contingency Funding Report -",
+        "truth": "A. Gap Report",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "C. Duration Analysis Report\nD. Simulation Model Report\nEffective Board and senior management oversight of the bank's IRR activities is the cornerstone of an effective RM process. What is the responsibility of the BOD?\nA. Establish effective ICs\nB. Develop and implement P&P.\nC. Establish and guide the bank's direction and tolerance\nD. Oversee the implementation and maintenance of MIS -",
+        "truth": "C. Establish and guide the bank's direction and tolerance",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which two are common measurements of current and potential funding levels? (Choose two)\nA. Net loans/time deposits\nB. Total assets/total equity capital\nC. Net ST Liabs/assets\nD. Total equity capital/total deposits\nE. ST assets/ST Liabs -",
+        "truth": "C. Net ST Liabs/assets",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "E. ST assets/ST Liabs\nABC National Bank reported a net interest margin of 4.00% during one year, and a net interest margin of 5.25% during the subsequent year. Market interest rates experienced significant increases during the second year. What would explain the change in the bank's net interest margin?\nA. The bank's deposits are primarily non-interest bearing.\nB. The bank's loans are primarily fixed-rate and long-term.\nC. The bank's investments are primarily callable agency bonds.\nD. The bank's overhead expenses decreased during the second year. -",
+        "truth": "A. The bank's deposits are primarily non-interest bearing.",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "What is the Economic Value of Equity used to measure?\nA. equity risk\nB. liquidity risk\nC. trading account risk\nD. long-term earnings exposure\nE. short-term earnings exposure -",
+        "truth": "D. long-term earnings exposure",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "What are three funding sources included on a Rollover Risk report? (Choose three.)\nA. FHLB Advances\nB. Savings Accounts\nC. Fed Funds Purchased\nD. Certificates of Deposit\nE. Money Market Deposit Accounts -",
+        "truth": "A. FHLB Advances",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "D. Certificates of Deposit\nE. Money Market Deposit Accounts\nWhat are three attributes of a \"marketable\" security?\nA. Is registered under the Securities Act of 1933\nB. Is bank stock or a Trust Preferred security of a bank\nC. Can be purchased at a negotiated price without sustaining a loss\nD. Can be sold with reasonable promptness at a price that corresponds reasonably to its fair value\nE. Is offered and sold pursuant to Securities and Exchange Commission Rule 144A and rated investment grade or the credit equivalent -",
+        "truth": "A. Is registered under the Securities Act of 1933",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "D. Can be sold with reasonable promptness at a price that corresponds reasonably to its fair value\nE. Is offered and sold pursuant to Securities and Exchange Commission and rated investment grade or the credit equivalent\n11) What would cause a bank's net interest margin to decline?\nA. asset sensitive and rates are rising\nB. liability sensitive and rates are rising\nC. asset sensitive and rates are steady\nD. liability sensitive and rates are declining\nE. assets and liabilities are matched and rates are steady -",
+        "truth": "B. Liability sensitive and rates are rising.",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "ABC National Bank provides servicing for over $4 billion in mortgage loans. The value of the mortgage servicing asset (MSA) is roughly $78 million. In order to hedge fluctuations in the value of the MSA, the bank has purchased futures and options on the 10-year Treasury. Which element of interest rate risk is inherent in this scenario and may contribute to the net ineffectiveness of the hedge?\nA. Basis Risk\nB. Options Risk\nC. Repricing Risk\nD. Yield Curve Risk -",
+        "truth": "A. Basis Risk",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "ABC National Bank reports a significant volume of structured FHLB advances on its quarterly call report. These liabilities are a source of which element of interest rate risk?\nA. Basis Risk\nB. Options Risk\nC. Repricing Risk\nD. Yield Curve Risk -",
+        "truth": "B. Options Risk",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which represents a use of bank funds?\nA. acquiring deposits\nB. increasing the ALLL\nC. issuing additional capital\nD. increasing investment securities\nE. reducing commercial loan balances -",
+        "truth": "D. increasing investment securities",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which two benchmarks are used to measure liquidity risk? (Choose Two.)\nA. fixed assets to total assets\nB. average yield on loan portfolio\nC. non-core funding dependence\nD. short-term liabilities to total assets\nE. nonmaturity deposits to long-term assets -",
+        "truth": "C. non-core funding dependence",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "D. short-term liabilities to total assets\nWhich describes a bank that exhibits low liquidity risk?\nA. The bank relies heavily on short-term funding sources.\nB. The bank's loan to deposit ratio is above its national peer group.\nC. The bank's cost of funds is low compared to its local peer group.\nD. Loan growth is projected to exceed deposit growth over the next year.\nE. A majority of the bank's deposits are certificates of deposit over $100,000. -",
+        "truth": "C. The bank's cost of funds is low compared to its local peer group.",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Liquidity is obtained from what source?\nA. gap report\nB. balance sheet\nC. loan trial balance\nD. income statement -",
+        "truth": "B. balance sheet",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "What is included in money market assets?\nA. municipal securities\nB. acceptances and other assets\nC. fed funds sold with overnight maturity or term maturity within 30 days\nD. fed funds purchased with an overnight maturity or term maturity within 30 days -",
+        "truth": "C. fed funds sold with overnight maturity or term maturity within 30 days",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "The investment portfolio can provide liquidity in which three ways? (Choose three.)\nA. the maturity of a security\nB. the sale of securities for cash\nC. as a reverse repurchase agreement\nD. as collateral in a repurchase agreement -",
+        "truth": "A. the maturity of a security",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "B. the sale of securities for cash\nD. as collateral in a repurchase agreement\nRetail funding consists of what types of deposits?\nA. those that a bank receives through third parties\nB. those that a bank receives from governmental units\nC. those that a bank receives from other financial institutions\nD. those that a bank receives from consumers and small businesses -",
+        "truth": "D. those that a bank receives from consumers and small businesses",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which three are considered collateralized wholesale funds? (Choose three.)\nA. public funds\nB. brokered deposits\nC. federal reserve advances\nD. treasury tax and loan accounts -",
+        "truth": "A. public funds",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "C. federal reserve advances\nD. treasury tax and loan accounts\nWhen assessing liquidity risk management, which three reflect prudent oversight and internal controls? (Choose three.)\nA. reporting to the board annually\nB. validating systems periodically\nC. verifying that duties are properly segregated\nD. monitoring compliance with established limits -",
+        "truth": "B. validating systems periodically",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "C. verifying that duties are properly segregated\nD. monitoring compliance with established limits\nWhich two are considered when determining the adequacy of liquidity and the quantity of liquidity risk? (Choose two.)\nA. the quality of the investment portfolio\nB. the volatility of the net interest margin\nC. the liquidity policy and established risk limits\nD. the bank's ability to meet anticipated funding needs\nE. the level and impact of basis risk and yield curve risk -",
+        "truth": "A. the quality of the investment portfolio",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "D. the bank's ability to meet anticipated funding needs\nWhich two strategies can banks employ to reduce funding and liquidity risks? (Choose two.)\nA. Reduce assets that require term funding, such as loans.\nB. Increase assets that require term funding, such as loans.\nC. Replace credit insensitive funding with credit sensitive liabilities.\nD. Replace credit sensitive liabilities with credit insensitive funding. -",
+        "truth": "A. Reduce assets that require term funding, such as loans.",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "D. Replace credit sensitive liabilities with credit insensitive funding.\nA bank's liquidity forecast for the next 90 days shows the following projections:\nUses of cash\nLoan growth $2,400,000\nDividend payment $ 600,000\nOCC supervisory fee $ 23,000\nSources of cash\nMaturing investment securities $1,500,000\nLoan principal amortization $ 245,000\nAdditional core deposits $ 700,000\nReduction in cash account $ 578,000\nWhich two describe the effects of these transactions on the bank's financial condition and performance? (Choose two.)\nA. the loan to deposit ratio will increase\nB. the return on asset ratio will decline\nC. the bank's total assets will increase\nD. the bank's core deposit to total assets ratio will decline -",
+        "truth": "A. the loan to deposit ratio will increase",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "C. the bank's total assets will increase\nWhich three are addressed by a contingency funding plan? (Choose three.)\nA. effects on net income\nB. asset and liability strategies\nC. all of the bank's funding and liquidity needs\nD. the bank's funding preferences\nE. loan administrative policies and procedures -",
+        "truth": "B. asset and liability strategies",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "C. all of the bank's funding and liquidity needs\nD. the bank's funding preferences\nWhat change in the balance sheet represents a source of funds?\nA. decrease in other assets and investments\nB. increase in interest-bearing bank balances\nC. increase in real estate loans and increase in OREO\nD. decrease in time deposits and other savings deposits -",
+        "truth": "A. decrease in other assets and investments",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which three of the following are reviewed when identifying volume and trends in funding? (Choose three.)\nA. funding concentrations\nB. wholesale funding that may be credit sensitive\nC. projected funding needs vs. available sources\nD. reasonableness of established policy limits/guidelines\nE. impact of funding changes on planning and budgeting processes -",
+        "truth": "A. funding concentrations",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "B. wholesale funding that may be credit sensitive\nC. projected funding needs vs. available sources\nWhat are three elements that should be included in a bank's contingency funding plan? (Choose three.) A. detailed action plans\nB. early warning triggers\nC. deposit pricing surveys\nD. earnings-at-risk (EAR) reports\nE. definitions of a crisis (or crises) -",
+        "truth": "A. detailed action plans",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "B. early warning triggers\nE. definitions of a crisis (or crises)\nWhich two administrative actions are legally enforceable? (Choose two.)\nA. Consent Order\nB. Formal Agreement\nC. Cease and Desist Order\nD. Memorandum of Understanding\nE. Matters Requiring Board Attention -",
+        "truth": "A. Consent Order",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "C. Cease and Desist Order\n31) XYZ National Bank is a composite 2 rated bank with the following capital ratios:\nTier 1 Leverage 3.21%\nTier 1 RBC 3.95%\nTotal RBC 7.78%\nUnder Part 6-Prompt Corrective Action (PCA), what is the bank's capital category? -",
+        "truth": "Undercapitalized",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Economic value analysis facilitates risk/reward analysis. Which of the following common benchmarks is used for evaluating instruments in an economic value analysis?\nA. present value\nB. future value\nC. par value\nD. face value -",
+        "truth": "A. present value",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "ABC National Bank is considering the purchase of a $1,000,000 collateralized mortgage obligation (CMO). Which tranche should be considered if their goal is to maximize cash-flow certainty?\nA. Z-tranche\nB. companion tranche\nC. planned amortization class (PAC) tranche\nD. targeted amortization class (TAC) tranche -",
+        "truth": "C. planned amortization class (PAC) tranche",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which activity increases bank assets?\nA. acquiring deposits\nB. liquidating investments\nC. increasing treasury stock\nD. selling Other Real Estate Owned\nE. increasing the Allowance for Loan and Lease Losses -",
+        "truth": "A. acquiring deposits",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which three loans are required to be on nonaccrual? (Choose three.)\nA. A residential real estate loan is 95 days past due, but the borrower has been making timely monthly payments for five months.\nB. A commercial loan with a loan-to-value of 50% is past due 119 days. The borrower has just filed for chapter 11 bankruptcy protection and repayment is uncertain.\nC. An unsecured commercial loan is 87 days past due and the bank anticipates payment from an insurance settlement within 30 days.\nD. A commercial loan is 85 days past due. Collateral is sufficient to cover the loan's principal balance, but the bank expects to charge-off $3,000 in interest and $400 in accrued late charges.\nE. A$20,0000 single-payment commercial note secured by machinery and equipment has renewed annually for the last ten years with no principal reduction. The loan is current, but the entire credit relationship is rated substandard. -",
+        "truth": "B. A commercial loan with a loan-to-value of 50% is past due 119 days. The borrower has just filed for chapter 11 bankruptcy protection and repayment is uncertain.",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "D. A commercial loan is 85 days past due. Collateral is sufficient to cover the loan's principal balance, but the bank expects to charge-off $3,000 in interest and $400 in accrued late charges.\nE. A$20,0000 single-payment commercial note secured by machinery and equipment has renewed annually for the last ten years with no principal reduction. The loan is current, but the entire credit relationship is rated substandard.\nThe 2006 Interagency policy Statement on the Allowance for Loan and Lease Losses (ALLL) requires national banks to analyze the collectibility of its loans and maintain an ALLL at a level that is appropriate and determined in accordance with GAAP. Which two statements are true? (Choose two.)\nA. Amounts designated as \"unallocated\" may be included in the ALLL.\nB. If aloan is not impaired under FAS 114, that loan should generally be included in the assessment of the ALLL under FAS 5.\nC. If a loan is determined to be impaired under FAS 114, but the amount of the impairment is zero, that loan should be included in the assessment of the ALLL under FAS 5.\nD. If a bank has had very low or zero historical losses, it may rely on the industry average loss experience of 50 percent for doubtful loans and 15 percent for substandard loans in determining the ALLL.\nE. For purposes of estimating FAS 5 portions of the ALLL, historical -",
+        "truth": "A. Amounts designated as \"unallocated\" may be included in the ALLL.",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "B. If aloan is not impaired under FAS 114, that loan should generally be included in the assessment of the ALLL under FAS 5.\nAccording to the Internet Banking examination handbook, which three activities are considered \"transactional\" when conducted online through a bank's website? (Choose three.)\nA. accessing an account\nB. initiating a bill payment\nC. sending a wire transfer\nD. viewing the privacy policy\nE. checking posted deposit rates -",
+        "truth": "A. accessing an account",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "B. initiating a bill payment\nC. sending a wire transfer\nWhich two areas must be reviewed during each community bank supervisory examination cycle regardless of the bank's consumer compliance rating? (Choose two.)\nA. Bank Secrecy Act\nB. Truth in Lending Act\nC. Flood Disaster Protection Act\nD. Home Mortgage Disclosure Act\nE. Privacy of Consumer Financial Information -",
+        "truth": "A. Bank Secrecy Act",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "C. Flood Disaster Protection Act\nWhat is the maximum amount of interest a national bank may charge on loans?\nA. A national bank may not charge more than 18%.\nB. There is no maximum amount of interest a national bank may charge.\nC. A national bank may charge the maximum rate of interest permitted by state law.\nD. A national bank may only charge 1% more than the discount rate on 90-day commercial paper. -",
+        "truth": "C. A national bank may charge the maximum rate of interest permitted by state law.",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "What is the OCC's definition of asset management?\nA. the business of providing financial products or services to a third party for a fee or commission\nB. the business of providing financial products or services to customers for the purpose of generating profits\nC. the business of providing financial products or services to wealthy clients for the purpose of preserving wealth\nD. the business of providing financial products or services to a third party for a fee or commission for the purpose of preserving wealth\nE. the business of providing financial products or services for the purposes of generating non interest income and retaining existing customers -",
+        "truth": "A. the business of providing financial products or services to a third party for a fee or commission",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "What are three traditional fiduciary services offered by a community bank trust department? (Choose three.)\nA. retail brokerage services\nB. registrar and transfer agent\nC. investment management services\nD. personal trust, including estate administration\nE. corporate trust administration, including retirement plan services -",
+        "truth": "C. investment management services",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "D. personal trust, including estate administration\nE. corporate trust administration, including retirement plan services\nWhat is Economic Value of Equity used to measure?\nA. equity risk\nB. liquidity risk\nC. trading account risk\nD. long-term earnings exposure\nE. short-term earnings exposure -",
+        "truth": "D. long-term earnings exposure",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Liquidity is obtained from what source?\nA. gap report\nB. balance sheet\nC. loan trial balance\nD. income statement -",
+        "truth": "B. balance sheet",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which three are addressed by a contingency funding plan? (Choose three.)\nA. effects on net income\nB. asset and liability strategies\nC. all of the bank's funding and liquidity needs\nD. the bank's funding preferences\nE. loan administration policies and procedures -",
+        "truth": "B. asset and liability strategies",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "C. all of the bank's funding and liquidity needs\nD. the bank's funding preferences\nAccording to 12 CFR 7 Subpart A - Bank Powers, which of the following three activities are permissible? (Choose three.)\nA. A national bank may establish and operate a messenger service.\nB. A national bank may invest in a locally owned casino if it is providing jobs for its community.\nC. A national bank may maintain and operate a facility that sells lottery tickets on bank premises.\nD. A national bank may assist its customers in preparing their tax returns, either gratuitously or for a fee.\nE. A national bank may maintain and operate a postal substation on banking premises and receive income from it. -",
+        "truth": "A. A national bank may establish and operate a messenger service.",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "D. A national bank may assist its customers in preparing their tax returns, either gratuitously or for a fee.\nE. A national bank may maintain and operate a postal substation on banking premises and receive income from it.\nBank management is responsible for the implementation, integrity, and maintenance of risk management systems. Which two must management perform? (Choose two.)\nA. keep the directors adequately informed\nB. ensure policies are written\nC. annually assess the loan portfolio's risk\nD. develop policies that define the institution's risk tolerance\nE. provide a written report on staffing adequacy each year -",
+        "truth": "A. keep the directors adequately informed",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "D. develop policies that define the institution's risk tolerance\nWhat is reflective of an asset quality rating of \"2\"?\nA. Asset quality or credit administration practices are less than satisfactory.\nB. The levels of risk and problem assets are significant and inadequately controlled.\nC. The level and severity of classifications and other weaknesses warrant a limited level of supervisory attention.\nD. Identified weaknesses are minor in nature and risk exposure is modest in relation to capital protection and management's abilities. -",
+        "truth": "C. The level and severity of classifications and other weaknesses warrant a limited level of supervisory attention.",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which statement is true regarding the board's responsibility to monitor bank operations? A. The board should ensure that it fulfills the monitoring requirements set by management. B. The board may delegate responsibility for monitoring the bank's operations to competent management.\nC. The board should ensure that management understands and carries out board policies and directives.\nD. The board should develop and approve daily operating procedures and policies and delegate responsibility to management to ensure implementation. -",
+        "truth": "C. The board should ensure that management understands and carries out board policies and directives.",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which three supervisory actions can the OCC subject a bank to that is undercapitalized per Prompt Corrective Action (PCA) regulations? (Choose three.)\nA. restrict the growth of the bank's assets\nB. require the submission of a capital restoration plan\nC. restrict payments on the bank's subordinated debt\nD. restrict payments of capital distributions and management fees -",
+        "truth": "A. restrict the growth of the bank's assets",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "B. require the submission of a capital restoration plan\nD. restrict payments of capital distributions and management fees\nFrom a review of the UBPR, which statement is true about banks that elect Subchapter S status for income taxes?\nA. A flat 28% rate is applied to cash dividends.\nB. The UBPR adjusts after tax earnings and dividends used in the ratios.\nC. Dollar data displayed in the UBPR is adjusted for Subchapter S status.\nD. The UBPR does not adjust after tax earnings and dividends used in the ratios. -",
+        "truth": "B. The UBPR adjusts after tax earnings and dividends used in the ratios.",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Documentation on all loans to executive officers must include a call provision.\nA. True\nB. False -",
+        "truth": "A. True",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "The management rating (1 through 5) is assigned giving consideration to which of the following? A. Technical competence, leadership, and administrative ability;\nB. Demonstrated willingness to serve the legitimate banking needs of the community;\nC. The size of the Board of Directors;\nD. Aand B only;\nE. A, B, and C -",
+        "truth": "A. Technical competence, leadership, and administrative ability",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "B. Demonstrated willingness to serve the legitimate banking needs of the community\nIf a bank is \"Well capitalized\" for Prompt Corrective Action purposes, the Capital component rating will always bea \"1\" ora\"2\".\nA. True\nB. False -",
+        "truth": "B. False",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Also, can be worded something to the effect of under what situations (like pick 2 or 3) wouldn't a bank be considered \"well capitalized\"",
+        "truth": "B. False",
+        "source": {
+            "title": "OCC UCE MC Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf"
+        }
+    }
+]

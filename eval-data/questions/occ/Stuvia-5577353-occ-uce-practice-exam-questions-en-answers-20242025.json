@@ -1,0 +1,586 @@
+[
+    {
+        "question": "Which of the following is not a factor of management's internal control environment?",
+        "truth": "C) Risk assessment- Internal controls handbook page 5 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following should be included as components of the bank's non-interest income?",
+        "truth": "a) the organizational structure of the institution\nb) management's philosophy and operating style\nc) risk assessment\nd) external influences that affect the bank's operations and risk management practices (e.g. independent audits)\nC) |, Ill, and IV only- Call report instructions -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "True or False:",
+        "truth": "|. Feeds on fiduciary activities\nll. Service fees on commercial loans\nlll. Trading fees and commissions\nIV. Deposit service charges\nA) | and Il only\nB) Il and III only\nC) |, Ill, and IV only\nD) 1, I, Ill, and IV\nFalse-12 CFR 163.33(a)(1)(I) and \"National Banks- Federal Savings Associations Quick Reference Guide\" -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following is a Prohibited Basis under the Fair Housing Act?",
+        "truth": "Like national banks, the president of a Federal Savings Association is required to be a member of the board of directors.\nC.) I, Ill, and IV only- Fair Housing Act, Section 805 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following bulletins summarizes OCC expectations for banks regarding capital adequacy and provides guidance on capital planning?",
+        "truth": "|. Familial status\nll. Receipt of Public Assistance\nIll. Handicap\nIV. Color\nA) | and Il only\nB) Il and III only\nC) |, Ill, and IV only\nD) I, Il, Ill, and IV only\nd) none of the above. 2012-16 was rescinded in 2018. Capital adequacy requirements and guidance on capital planning is now included in the capital and dividends handbook. -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Upon foreclosures or physical possession, whichever is earlier, OREO should be recorded at",
+        "truth": "a) OCC Bulletin 2011-21\nb) OCC Bulletin 2012-16\nc) OCC Bulletin 2012-18\nd) None of the above\nd- the fair value of the property, less the estimated cost to sell- OREO Handbook Page 6 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following is considered an insider for the purposes of Regulation O (12 CFR 215)",
+        "truth": "a) the fair value of the property, capitalizing any estimated cost to sell\nb) the fair value of the property\nc) the outstanding loan amount upon foreclosure\nd) the fair value of the property, less the estimated cost to sell\nb-Il only. See Insider Activities Handbook page 9 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following rating classifications is described as having a weakness that makes collection or liquidation in full, on the basis of currently existing facts, conditions, and values, highly questionable and improbable?",
+        "truth": "|. A shareholder owning 8 percent of the bank's voting securities\nll. A shareholder owning 21 percent of the bank's voting securities\nIll. An EVP that does not have authority to participate in major policy making function\nIV. Any employee of the bank\na) | and Il only\nb) Il only\nc) |, Ill, and IV only\nd) 1, Il, Il, and IV\nc. Doubtful. Generally, a doubtful asset has a high probability of total or substantial loss, but because of specific pending events that may strengthen the assets, its classification as loss is deferred. Because the high probability of loss, nonaccrual accounting treatment is required for doubtful assets. See Rating Credit Risk Handbook pg. 17 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following components of interest rate risk involves changes in the relationship between interest rates of different maturities within the same index or market?",
+        "truth": "a) Special Mention\nb) Substandard\nc) Doubtful\nd) Loss\nc) yield curve risk- See IRR handbook page 9 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "True or False:",
+        "truth": "a) repricing risk\nb) basis risk)\nc) yield curve risk\nd) option risk\nFalse. See IRR handbook, page 19 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following real estate loans would require flood insurance? Assume the property is located in a special flood hazard area unless otherwise noted.",
+        "truth": "A rate-sensitive assets (RSA) to rate-sensitive liabilities (RSL) ration of 0.63 suggests that the bank has more assets than liabilities subject to repricing.\nA- See FDPA Handbook page 35; exemptions -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Use the following quarterly bank call report balance sheet information (in $000s):",
+        "truth": "a) A purchase loan for a four-walled barn with an original principal balance of $4,500 and repayment terms of 18 months\nb) A purchase loan for a permanently affixed mobile home not located in a SFHA\nc) A purchase loan for a four-walled barn with an original principal balance of $3,000 and repayment term of 9 months\nd) An acquisition and development loan to acquire raw land that will be developed into buildable lots\nb- (Common stock 750+ Surplus 800+ Undivided profits 1785)/ average assets 55600. Qualifying subordinated debt is a component of Tier II capital. See UBPR instructions -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "When a banker refers to a farmer or rancher's \"carryover,\" the banker means:",
+        "truth": "Total assets: $56,720\nAverage Assets: $55,600\nSubordinated debt (qualifies as capital): $350\nCommon Stock: $750\nSurplus: $800\nUndivided Profits: $1,785\nWhat is the bank's Tier One leverage capital ratio?\na) 6.63%\nb) 6.00%\nc) 6.50%\nd) 5.88%\nC- agricultural lending handbook page 12 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following types of loans to executive officers are permitted without limit?",
+        "truth": "a) livestock not sold for slaughter\nb) A positive cash flow after harvest\nc) Unpaid operating debts after sale of inventory\nd) none of the above\nC- Loans for their children's education -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following is not exempt from obtaining an appraisal/evaluation?",
+        "truth": "a) loans to partnerships of the officers\nb) loans to purchase stock of the bank\nc) loans for their children's education\nd) unsecured loans for any purpose\nC- while an appraisal is not explicitly required, institutions should obtain an evaluation consistent with safe and sound banking practices. See OCC 2010-42: Interagency Appraisal and Evaluation Guidelines\" Appendix A, page 17 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following should be included in an effective risk management process for vendor management?",
+        "truth": "a) lien on real estate taken by the lender in an abundance of caution\nb) a loan that is not secured by real estate, even if the proceeds of the loan are used to acquire real property\nc) real estate transactions with a transaction value equal to or less than $250,000\nd) Operating leases that are not the economic equivalent of the purchase or sale of the leased property\nD- 1, Il, Ill, and IV. See OCC Bulletin 2013-29 \"Third-Party Relationships\" pg. 1 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "A reservist with the National Guard received military service orders dated 6/24/2013 with a reporting date to active service of 8/12/2013. When applying the appropriate interest rate reduction, which date should the bank use?",
+        "truth": "|. Plans that outline the bank's strategy, identify inherent risks, and detail how the bank selects, assesses, and oversees third parties\nll. Contingency plans for terminating the relationship in an effective manner\nIll. Ongoing monitoring of third party activities and performance\nIV. Proper due diligence in selecting a third party\na) | and Il only\nb) Il only\nc) |, Ill, and IV only\nd) |, Il, Il, and IV only\nA- see USC Appendix 516 (a) -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "The investment officer at First National Bank would like to add a municipal bond to the bank's investment portfolio. She believes that the bond is investment grade due to its Moody rating of Baa1. Which of the following OCC Bulletins should she consult for additional due diligence requirements?",
+        "truth": "a) The date of the military orders\nb) The date 30 days after the reservist received the orders\nc) The date the reservist notifies the bank\nd) The date the reservist enters active duty\nA bank's total outstanding loans and extensions of credit to one borrower may not ever exceed 15 percent of the bank's capital and surplus\nd- the depth of the due diligence should be a function of the security's credit quality, the complexity of the structure, and the size of the investment. -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "A bank's customer identification program must contain account-opening procedures detailing the identifying information to be obtained from each customer. At a minimum, which of the following information must the bank obtain before opening an account for US persons?",
+        "truth": "a) OCC Bulletin 2014-36\nb) OCC Bulletin 2011-19\nc) OCC Bulletin 2012-24\nd) OCC Bulletin 2012-18\nC- I, Il, and IV only. In addition to customer name, date of birth, and address, the bank should also obtain the identification number for the individual or corporation. See 31 CFR 1020.220 for further guidance on CIP -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "The OCC can initiate a variety of informal and formal actions against national banks. Which of the following are public documents?",
+        "truth": "|. Customer name\nll. Date of birth, for an individual\nIll. Employer, for an individual\nIV. Address\na) | and Il only\nb) Il only\nc) |, Il, and IV only\nd) 1, Il, Il, and IV\nb-formal agreements. While Formal agreements are issued pursuant to the OCC's Cease and Desist Order authority, they are considered less severe than C&Ds. See Bank enforcement actions document -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following auditing, reporting, and audit committee requirements apply to all national banks with $500 million or more in total assets",
+        "truth": "a) Board Resolutions\nb) Formal Agreements\nc) Commitment Letters\nd) Memoranda of Understanding\nA-| only. IPAs much make work papers available upon request. Only institutions with total assets of at least $1 billion are required to maintain an audit committee comprised of entirely outside directors (majority for $500MM-$1B) and obtain a separate IPA attestation. 12 CFR 363 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following is a collateral valuation method used to limit the amount of funds the lender will advance the borrower?",
+        "truth": "|. An Independent public accountant (IPA) must audit financial statements\nll. An audit committee composed entirely of outside directors, independent of bank management\nIll. IPAs may or may not make their work papers available to OCC examiners upon request\nIV. A separate attestation by an IPA on the effectiveness of management's assertions over internal controls\na) | only\nb) | and II only\nc) |, Il, and IV only\nd) I, Ul, II, and IV\nD- Borrowing Base. A borrowing base is used in accounts receivable/inventory financing and specifies the maximum amount that can be borrowed in terms of collateral type, eligibility, and advance rates. See\nAccounts Receivable and Inventory Financing Handbook. -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "American National Bank has decided to close one of its branch locations due to branch expenses. Which of the following is true regarding the former banking premises?",
+        "truth": "a) Blanket assignment\nb) Factoring\nc) Trade cycle analysis\nd) Borrowing base\nC- I, Il, and IV only. A national bank must dispose of OREO at the earliest time prudent judgment dictates, but the holding period must be no longer than five years. In addition, the OCC may grant multiple extensions, as long as those extensions, in the aggregate, do not exceed an additional five years. See OREO Handbook page 4. -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "In general, RESPA coverage is applicable to all loans secured by a first lien on residential real property. Which of the following transactions is exempt from coverage?",
+        "truth": "|. The holding period for OREO begins on the date the bank ceases to use the former premises without relocating\nll. The bank may hold the property three years\nIll. The bank may hold the property as long as it desires, as long as the bank requests an extension\nIV. The bank may hold the property no more than ten years, even with an extension\na) | only\nb) | and II only\nc) |, Il, and IV only\nd) I, Ul, II, and IV\nd- a loan on a property of 25 acres or more (whether or not a dwelling is located on the property) is exempt from RESPA requirements. See 12 CFR 1024 and RESPA Handbook page 3 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following funding would not be considered wholesale funding?",
+        "truth": "a) Loans secured by a first lien upon which a 1-4 family structure is located\nb) Loans secured by a first lien upon which a manufactured home is located\nc) Loans secured by a first lien upon which a 1-4 family structure is to be constructed using the loan proceeds\nd) Loans secured by a first lien on 25 acres or more upon which a dwelling is located\nb- examples of alternative funding sources include federal funds lines, repurchase agreements (repos) correspondent bank lines, Federal home Loan Bank (FHLB) advances, internet deposits, deposit-sharing arrangements, and brokered deposits. See liquidity handbook -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Assuming all properties are located in a special flood hazard zone, which of the flowing would require the escrowing of flood insurance?",
+        "truth": "a) Brokered deposits\nb) Large CDs obtained through local businesses\nc) Repurchase agreements\nd) Federal Home Loan Bank advances\nd- The escrow requirement is limited to loans secured by \"residential improved real estate.\" Therefore, the determining factor in applying the requirement is not the purpose of the loan, but the purpose of the building. See Flood Handbook page 12 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following is correct in regards to national bank's board of directors?",
+        "truth": "a) A commercial loan secured by a shopping center for which the lender requires the escrowing of other funds\nb) A residential loan for a 1-4 family home for which the lender does not require escrowing of other funds\nc) An agriculture loan secured by 27 acres of land for which the lender requires the escrowing of other funds\nd) A business loan secured by a residential rental property for which the lender requires the escrowing of other funds\nd- I, Il, Il, and IV. A bank's board may have more than 25 members after notifying the OCC as to why the reason for the increase occurred. The value of stock (or qualifying equity interest) may be based on the part value, shareholder's equity interest, or fair market value. See 12 CFR 7 for more information. (12 CFR 7.2024, 2008, 2005, and 2012, respectively) -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Per the UBPR, which of the following would be considered a noncurrent loan?",
+        "truth": "|. The number of directors must be at least 5, but no more that 25\nll. Original execute oaths of directors must be filed with the OCC\nIll. Each director must own an aggregate value of $1,000 in stock\nIV. The president of a national bank must be a member of the board of directors\na) | and Il only\nb) Il only\nc) |, Il, and IV only\nd) |, Il, Il, and IV\nC- Il, Ill, and IV only. Per the UBPR, a noncurrent loan is defined as loans and lease-financing receivables past due at least 90 days, plus those in nonaccrual status. As doubtful classification automatically results in nonaccrual status, the fact that the credit is only 40 days past due does not matter. See UBPR User's Guide -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following investment types is limited to 10 percent of capital and surplus when the purchase is based on adequate evidence of ability to perform?",
+        "truth": "|. Aconsumer loan that is 30 days past due\nll. A doubtful loan that is 40 days past due\nIll. A commercial loan that is 95 days past due\nIV. A substandard loan that is 103 days past due\na) land Il\nb) Ill and IV\nc) Il, Il, and IV\nd) I, Ul, II, and IV\nB. Type Il. Type Il and Type Ill investments are limited to 10 percent of capital and surplus when the value is based on adequate evidence of the maker's ability to perform. See Investments Handbook and 12 CFR 1 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following recover locations are generally equipped with electricity, ventilation, computers and other hardware, and external communication links, but may lack certain applications or a sufficient number of workstations?",
+        "truth": "a) Type |\nb) Type II\nc) Type IV\nd) Type V\nb- Warm Site. A warm site provides resumption capacity somewhere between that of a hot and cold site. The recovery site is less costly, more flexible, and requires fewer resources to maintain than a hot site. See FFIEC Business Continuity Planning Handbook page G-8 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "True or False:",
+        "truth": "a) Cold Site\nb) Warm site\nc) Hot site\nd) Tertiary Location\nFalse. Loans or extensions of credit, to the extent fully secured by the current market value, are not subject to legal lending limits when secured by US obligations. 12 CFR 32(3)(i) -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following enforcement actions is always signed with the consent of the bank board?",
+        "truth": "A bank made a loan of $500,000 to one customer, fully secured by a perfected security interest in US Treasuries. Assuming the bank has a legal lending limit of $475,000, the loan is in violation of the legal lending limit.\nd- Formal agreement. Always signed by the bank board, these actions are considered less sever than cease and desist orders. While other enforcement actions may be entered into by consent, it is not required. -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Excluding bank-provided reports, which of the following resources would best help to determine the maturity structure of a bank's investment securities?",
+        "truth": "a) Cease and desist order\nb) Prompt Corrective Action Directive\nc) Order of investigation\nd) Formal agreement\nA- Call report. The best report is generally the call report. While both the Canary and UBPR take into account loans and securities greater than 5 years when calculating ratios, they do not specifically separate out securities from loans. The QCALC does not have a maturity schedule. See call report RC-B for detailed classification of securities maturities. -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following is the risk to current or anticipated earnings or capital arising from an obligor's failure to meet the terms of any contract with the bank or otherwise perform as agreed?",
+        "truth": "a) call report\nb) canary\nc) QCALC\nd) UBPR\nD- credit risk. Credit risk is found in all activities in which settlement or repayment depends on counterparty, issue, or borrower performance. See Community Bank Supervision Handbook, Appendix\nPage 130 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following indicates a moderate quantity of price risk?",
+        "truth": "a) Price Risk\nb) Liquidity Risk\nc) Basis Risk\nd) Credit Risk\nB- | and Il only. In general price risk is the highest in trading and hedging activities. Price risk also arises from activities whose value changes are reflected in the income statement. See Community Bank Supervision Handbook, Appendix A, Page 146 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Use the following quarterly bank call report balance sheet information (in $000s)",
+        "truth": "|. Bank is active in mortgage banking with servicing assets material to capital\nll. Bank does not participate in hedging activities\nlll. Bank has a modest amount of OREO, but is concentrated in types that are not expected to realize significant negative value changes\nIV. Originating and distributing loans into the capital markets is a key business line for the bank\na) Il only\nb) | and III only\nc) |, Ill, and IV only\nd) I, Ul, II, and IV\nB- $1,483. The amount of the ALLL cannot exceed 1.25 percent of the bank's gross risk weighted assets. Gross RWA is reported in Schedule RC-R item 59 and refers to RWA before deductions for any excess ALLL. See Call Report instructions. -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following audit opinions are issued when financial statements present fairly, in all material respects, the financial position of the bank in conformity with GAAP?",
+        "truth": "Average assets: $168,682\nGross RWA (before deductions): $115,000\nTotal RWA: $110,787\nALLL: $1,650\nTotal Equity Capital: $19,303\nFor tier 2 capital purposes, what is the allowable portion of the bank's allowance for loan and lease losses?\na) $1,385\nb) $1,438\nc) $1,650\nd) $2,109\nD- unqualified. See internal and external audits handbook page 40 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following establishes the agency's expectations of risk management as it relates to Bank-Owned Life Insurance?",
+        "truth": "a) Adverse\nb) Disclaimer\nc) Qualified\nd) Unqualified\nC- OCC Bulletin 2004-56 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "In relation to hotel lending, which of the following is calculated by dividing the room revenue by the number of rooms occupied for a given period?",
+        "truth": "a) OCC Bulletin 2001-43\nb) OCC Bulletin 2001-47\nc) OCC Bulletin 2004-56\nd) OCC Bulletin 2012-31\nB. ADR. Once ADR has been calculated, RevPAR can be determined by multiplying the ADR by the occupancy rate. See Commercial Real Estate Lending Handbook, pg 46 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following are require to allow the OCC to extend examination frequency to 18 months. Choose all that apply.",
+        "truth": "a) Occupancy Rate\nb) Average Daily Rate\nc) Revenue per Available Room (RevPAR)\nd) Vacancy Rate\nI, Il, Ill, and IV. All of the preceding are required in order to extend the frequency to 18 months. See Bank Supervision Process Handbook, Page 11 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following bankruptcy chapters results in liquidation of the borrower's assets?",
+        "truth": "|. Bank is well capitalized and has total assets of less than $3 billion\nll. Bank has a composite and management ratings of 1 or 2\nlll. Bank is not subject to a formal enforcement proceeding\nIV. No person acquired control of the bank during the preceding 12-month period in which a full-scope exam would have been required\nA- Chapter 7. Chapter 7 involves the collection and selling of assets. Chapters 9, 11, and 13 are reorganizations. See 11 USC 7. -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following is not a requirement when issuing preferred stock?",
+        "truth": "a) Chapter 7\nb) Chapter 9\nc) Chapter 11\nd) Chapter 13\nIll- Be \"well-capitalized\" per PCA. An exception is available to newly organized banks that have not issued common stock. In addition to the three requirements listed above, the bank should provide a signed documents specifying the amount of issue to the OCC for certification and approval. See 12 USC 2 section 51a -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following risk areas are not included in the Canary report?",
+        "truth": "|. Approval by the OCC and a majority of stockholders\nll. Amending of the articles of association to reflect issuance if necessary\nlll. Be \"well-capitalized\" per PCA\nIV. Bank must ensure par value of preferred stock is paid in before issuance is valid\nB-Price Risk. Financial risk measures and benchmarks have been established for credit, interest rate, and liquidity risks. The financial measures are leading indicators of risk taking that are designed to be concise and intuitive. See PPM 5000-34 page 13 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "True or False:",
+        "truth": "a) Credit Risk\nb) Price Risk\nc) Liquidity Risk\nd) Interest Rate Risk\nTrue- When viewed individually, underwriting exceptions may not appear to increase risk significantly; however, when aggregated, even well mitigated exceptions can increase portfolio risk significantly. See LPM Handbook page 26 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following loan categories are considered classified assets? Choose all that apply.",
+        "truth": "As best practice, bank management should track the aggregate level of exceptions as it relates to credit quality.\nIll and IV. Classified assets do not include pass and special mention exposures. While special mention loans are criticized, they do not meet the definition of classified. See Rating Credit Risk Handbook page 17 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Currently, ABC Company's inventory is $900 thousand. The company reported average inventory of $1,235 thousand and cost of goods sold at $2,173 thousand. What is the inventory turnover ratio?",
+        "truth": "|. Pass\nll. Special Mention\nlll. Substandard\nIV. Doubtful\nC- 1.76 times: COGS of $2,173 divided by average inventory of 1.76 times. Inventory turnover measures how many times a business is able to turn inventory during the year and is calculated as COGS/Avg. Inv. A high rate is desirable. See Asset-Based Lending Handbook pg. 10 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following are true in regards to national banks? Choose all that apply.",
+        "truth": "a) 0.41\nb) 0.57\nc) 1.76\nd) 2.41\nI and III. A national bank may organize a bank premises subsidiary and may prepare income tax returns for customers free or a fee. While a national bank may act as an insurance agent, it may only do so in offices that are located in a location with a population that does not exceed 5,000. See 12 CFR 7. -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Generally, which of the following are classified as \"other assets\" on the call report? Choose all that apply.",
+        "truth": "|. A national bank may not hold real estate in a subsidiary\nll. A national bank may act as a general insurance agent if certain requirements are met\nIll. A national bank may maintain and operate a postal substation\nIV. A national bank may not prepare income tax returns for customers\nAll of the above are considered other assets on the call report. See Call Report Instructions -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following is not a minimum appraisal standard?",
+        "truth": "|. Net deferred tax asset\nll. Accrued interest receivable\nlll. Prepaid expenses\nIV. Bank-owned life insurance\nC- contain all three approaches to value. The appraisal should use the best approach to value for the individual property. See 12 CFR 34.44 and OCC Bulletin 2010-42 Section VIII -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "True or False:",
+        "truth": "a) Conform to generally accepted appraisal standards (USPAP)\nb) Be written and contain sufficient information and analysis to support decision\nc) Contain all three approaches to value\nd) Be performed by a state certified or licensed appraiser\nFalse. The aggregate lending limit for insiders cannot exceed 100% of capital and surplus. There is an exception for banks with deposits <$100MM, which the aggregate limit can be increased to 200% of capital and surplus. See 12 CFR 215.4 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following forecasting tools would a bank typically use in order to measure longer-term interest rate risk, in addition to capturing option risk?",
+        "truth": "While extensions of credit to individual insiders are subject to standard legal lending limits, the aggregate limit of all insider loans is limited to 150% of capital.\nD. EVE Model. While earnings-at-risk simulations typically span 12- and 24-month horizons. EVE models are able to capture a broader spectrum of maturities. Also, management can account for options risk with assumptions. See Interest Rate Risk Handbook, Appendix E -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "True or False:",
+        "truth": "a) Gap report\nb) Sources and uses funds report\nc) Earnings-at-risk simulation model\nd) Economic value of equity simulation model\nFalse. The four pillars of a BSA program include internal controls, independent testing, BSA officer, and employee training. In addition, the program/policy should be written, approved by the Board annually, and notated in the minutes. See 12 CFR 21.21 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "North Bank, N.A. has historically had well-developed funds management practices and access to funding sources on favorable terms. The last Canary report indicated more than sufficient on-hand liquidity. Based on these facts, what is the most likely component rating?",
+        "truth": "First National Bank's BSA program provides for a system of internal controls, independent testing, and designates an individual as BSA officer. Based on this information alone, we can ascertain that the program is effective and meets regulatory requirements.\nA- \"1\" A rating of \"1\" indicates strong liquidity levels and well-developed funds management practices. The institution has reliable access to sufficient sources of funds on favorable terms to meet present and anticipated liquidity needs. See Bank Supervision Process Handbook, page 52. -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "On the UBPR, which of the following criteria is used to define all commercial bank peer groups?",
+        "truth": "a-asset size. The UBPR breaks banks into 15 peer groups and a De Novo group. All banks are grouped by assets, which are then further stratified between number of banking offices and locations for smaller asset sizes. For peer group purposes, banks with assets of more than $300 million are not segregated by the number of offices or location. While the de novo is grouped by years, they are subject to a $750MM asset limitation. See UBPR User's Guide Page II-2 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "True or False:",
+        "truth": "a) asset size\nb) number of banking offices\nc) asset mix\nd) location\nFalse- Banker's acceptances are not subject to legal lending limitations. See 12 CFR 32.2(c)(2) -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Executive officers and principals shareholders must report their borrowings from correspondent banks. Which of the following is not true?",
+        "truth": "Banker's acceptances are subject to the same lending limit restrictions as other extensions of credit\nc-member banks must keep these reports for three years, not two. See 12 CFR 215.22(d) or Insider Activities Handbook, pg. 42 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "True or False:",
+        "truth": "a) The maximum amount of the debt must be reported\nb) the terms of the loan(s) must be included in the report\nc) the member bank must keep these reports for two years\nd) the report must be filed on or before January 31 the following year\nTrue- A bank must report any known or suspected criminal activity relation to directors, officers, or employees, regardless of the amount involved. See 12 CFR 21.11(c)(1) -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "First National Bank has five directors, of which two are directors of a manufacturing company. Together with their wives, the two directors constitute the only directors of the company. Which of the following is true of the manufacturing company?",
+        "truth": "A bank must file a Suspicious Activity Report for employee theft even if the employee makes restitution and agrees to resign.\nb- An affiliate is defined as any company in which a majority of its directors or trustees constitute a majority of the persons holding any office within the member bank or any company that controls the member bank. See 12 USC 371c(b)(1)(C)(ii) -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "A bank recently acquired title to a parcel of \"other real estate owned.\" when should the bank obtain an appraisal of the property?",
+        "truth": "a) The company is not an affiliate of the bank because it is not in the same line of business\nb) The company is not an affiliate of the bank because the directors do not compose a majority of the board of the bank\nc)The company is an affiliate because the directors obviously control the company\nd) The company is an affiliate because there are interlocking directors.\nc- if a bank has a valid appraisal or an appropriate evaluation obtained in connection with a real estate loan, then the bank need not obtain another appraisal when it acquires ownership of the property. See 12 CFR 34.85 (b) -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following thresholds would require advance majority approval of the board of directors, with the borrower abstaining?",
+        "truth": "a) Annually\nb) Every five years\nc) Not required at time of foreclosure if supported by a valid appraisal or appropriate evaluation\nd) Not required if the amount is less than $250M or 5% of capital.\nd- Prior approval is required if the aggregate of extensions of credit to the insider and related interests exceeds the higher of $25M or 5% of the member bank's unimpaired capital or surplus or in any case, $500M. See 12 CFR 215.4(b) -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following is true when a bank purchases an investment security with a premium?",
+        "truth": "a) The higher of $10M or the bank's legal lending limit\nb) The higher of $25M or 2.5% of capital, when the loan is for \"personal\" purposes\nc) The higher of $100M or 5% of capital regardless of purpose\nd) The higher of $25M or 5% of capital or in any case, $500M\nC- The difference between the purchase price and par value represents the premium, which all banks are required to amortize. A premium must be amortized and a discount must be accreted from date of purchase to maturity, not to call or put date. See Call Report Instructions. Page A-66 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "In the event a bank is undercapitalized, how many days does the bank have to file a written capital restoration plan?",
+        "truth": "a) The bank must amortize the premium from date of purchase to call date\nb) The bank must charge off the premium only in the event of default of the security\nc) The bank must amortize the premium over the life of the security\nd) The bank is not required to take any action unless the amount of the premium is equal to 5% or more of the total bank revenue\nB- A national bank shall file the plan with the OCC within 45 days of the date that the bank receives notice or is deemed to have notice that the bank is undercapitalized. See 12 CFR 6.5 (a) -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Generally, which of the following is true in regards to the aggregate amount of all loans in excess of the supervisory loan-to-value-limits?",
+        "truth": "a) 30 days\nb) 45 days\nc) 60 days\nd) 90 days\nC- the aggregate amount should not exceed 100 percent. In addition, within the aggregate limit, total loans for all commercial, agricultural, multifamily, or other non-1-to-4 family residential properties should not exceed 30 percent of total capital. See 12 CFR 35, Subpart D, Appendix A -\n",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following is true of a standby letter of credit? Choose two.",
+        "truth": "a) Should not exceed 30 percent of total capital\nb) Should not exceed 50 percent of total capital\nc) should not exceed 100 percent of total capital\nd) There is no limit\na, d- Answer choices b and c apply to commercial letters of credit. The primary difference between the two is that a standby letter of credit is only contingent. It is used when the bank's customer defaults or is non performing on the intended contract, similar to a guarantee. See Trade Finance Handbook. and the Call Report Glossary -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "What is required for a bank to reduce permanent capital? Choose all that apply.",
+        "truth": "a) Represents an obligation of the bank to a third party, contingent upon the failure of the banks customer to perform under the terms of the contract.\nb) Drafts will be drawn when the underlying transactions is consummated as intended\nc) Beneficiary will be paid when the terms of the letter are met and the required documents are submitted to the paying bank\nd) Drafts will be drawn only when the underlying event fails to occur as intended\nb, c- A reduction to permanent capital requires approval by the OCC and at least 2/3 of the owning shareholders voting consent. While a distribution of cash or other assets is authorized under an approved reduction plan, that is not the only option (e.g. Treasury stock). See 12 USC 59 or Capital and Dividends Licensing manual -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "True or False:",
+        "truth": "a) A bank may never reduce permanent capital\nb) With approval by the OCC\nc) When shareholders owning an aggregate two-thirds of its capital stock vote to approve\nd) The distribution of cash or other assets must be a part of the reduction plan\nFalse- This is one test of the Common Enterprise methodology for the LLL to determine if loans should be aggregated. Substantial financial interdependence exists when 50% or more of gross receipts OR gross expenditures are derived from the other borrower. These thresholds also include any intercompany loans, dividends, or capital contributions. Another test for a common enterprise is common control. See 12 CFR 32.5 (C) -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "In general, Community Reinvestment Act examinations occur every three years. Which of the following cycle extensions apply to banks having assets less than $250 million?",
+        "truth": "Substantial financial interdependence exists between borrowers when at least 25 percent or more of a borrower's gross receipts and 50 percent of more of expenses are derived from transactions with the other borrower\nd- In addition to the cycles noted above, supervisory agencies have discretion in frequency when the small bank received a \"less than satisfactory\" rating at the previous examination. See GLBA of 1999, Title VII, Subtitle B, Sec. 809 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following circumstances would require a loan write-up?",
+        "truth": "a) Small bank do not receive any extensions\nb) Once every 60 months for banks with a previous rating of \"outstanding\"\nc) Once every 48 months for banks with a previous rating of \"Satisfactory\"\nB-I and III only. Write-ups are strongly recommended when the special mention or classified loan is Shared National Credit, when the amount adversely rated exceeds the greater of $150M or 5% of capital, when management disagrees with the classifications, when an insider loan is adversely rated, or when a violation of law is involved. They are MANDATORY when a bank is or may be rate \"3,\" \"4,\" or \"5\" AND when any one of the last three items in the recommended list apply. The threshold decreases to $100M or 2% of capital for these banks. See Rating Credit Risk Handbook, page 41 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following might a bank do in order to provide funds to satisfy liquidity needs? Choose all that apply.",
+        "truth": "|. When the loan adversely rated exceeds the greater of $100 thousand or 2 percent of capital in a \"3\" rated bank\nll. When the loan is adversely rated exceeds the greater of $150 thousand or 5 percent of capital ina \"1\" rated bank\nIll. When an insider loan is adversely rated in a \"3\" rated bank\nIV. A special mention or classified Shared National Credit in a \"1\" rated bank\na) Il only\nb) | and III only\nc) Il and III only\nd) I, Ul, II, and IV\na, b, see rating credit risk handbook?? -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "True or False:",
+        "truth": "a) Liquidate investment securities\nb) Increase liabilities of a term nature\nc) Purchase treasury stock\nd) Increase holdings of non-liquid assets\nFalse- A bank is restricted from dealing in lottery tickets or advertising a lottery. See 12 USC 25a -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following matters may bankers not appeal?",
+        "truth": "While it is not appropriate for a bank to deal in lottery tickets, it is acceptable for a bank to advertise a lottery.\nC- formal enforcement actions- related actions. In addition to official enforcement decisions, remarks in an ROE and other communications about POTENTIAL formal enforcement actions made prior to a review committee decision are preliminary and therefore may not be appealed. See OCC Bulletin 2013-15 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following is not one of the steps in money laundering?",
+        "truth": "a) Examination Ratings\nb) Adequacy of the allowance for loan and lease loss methodology\nc) Formal enforcement-related actions\nd) Violations of law\nB- Transference. Although money laundering is a diverse and often complex process, it basically involves three independent steps (placement, layering, integration) that can occur simultaneously. See FFIEC BSA/AML Examination manual. Page 12 -",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    },
+    {
+        "question": "Which of the following is not one of the steps in money laundering?",
+        "truth": "a) Placement\nb) Transference\nc) Layering\nd) Integration",
+        "source": {
+            "title": "OCC UCE Practice Exam Questions & Answers 2024/2025",
+            "file_name": "Stuvia-5577353-occ-uce-practice-exam-questions-en-answers-20242025.pdf"
+        }
+    }
+]
