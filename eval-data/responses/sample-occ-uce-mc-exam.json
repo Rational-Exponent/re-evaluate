@@ -1,0 +1,20 @@
+{
+  "source": "Stuvia-5577177-occ-uce-mc-exam-questions-en-answers-20242025.pdf",
+  "eval-questions": [
+    {
+      "question": "What is the Economic Value of Equity used to measure?",
+      "truth": "Long-term earnings exposure.",
+      "response": "Hello, this is Erin, the enterprise assistant. The Economic Value of Equity (EVE) is a measure used to assess the overall value of a company's equity or ownership. It is calculated by taking the market value of a company's assets and subtracting the market value of its liabilities.\n\nThe EVE provides an estimate of the net worth or intrinsic value of a company from the perspective of its shareholders. It takes into account the company's assets, liabilities, and the market's valuation of the business. \n\nSome key points about the Economic Value of Equity:\n\n- It represents the value of the company that would be available to shareholders if the company were to be liquidated and all liabilities were paid off.\n- A higher EVE indicates the company has more valuable assets compared to its liabilities, suggesting stronger shareholder value.\n- EVE can be used to compare the relative value of different companies or to track changes in a company's value over time.\n- It provides a different perspective than book value, which does not account for market valuations.\n\nPlease let me know if you have any other questions! I'm happy to provide more details about this financial metric."
+    },
+    {
+      "question": "What would cause a bank's net interest margin to decline?",
+      "truth": "Liability sensitive and rates are rising.",
+      "response": "Hello, this is Erin, the enterprise assistant. Regarding your question about a bank's net interest margin declining, there are a few potential factors that could contribute to this:\n\n1. Falling interest rates: When interest rates decline, banks typically earn less on their interest-earning assets (such as loans) compared to the interest they pay on their interest-bearing liabilities (such as deposits). This can compress the net interest margin.\n\n2. Increased competition: If there is intense competition in the banking sector, it may force banks to offer higher deposit rates or lower loan rates, which can squeeze the net interest margin.\n\n3. Changes in the loan portfolio mix: If a bank shifts its loan portfolio towards lower-yielding assets, such as mortgages or consumer loans, it can lead to a decline in the overall yield on the loan portfolio, reducing the net interest margin.\n\n4. Rising funding costs: If a bank's cost of funding, such as the interest it pays on deposits or wholesale borrowings, increases faster than the yield on its interest-earning assets, it can cause the net interest margin to decline.\n\n5. Regulatory changes: Certain regulatory requirements, such as higher capital or liquidity standards, can increase a bank's funding costs and put pressure on its net interest margin.\n\nI hope this overview of potential factors helps provide some context around the decline in a bank's net interest margin. Please let me know if you have any other questions."
+    },
+    {
+      "question": "Which two benchmarks are used to measure liquidity risk?",
+      "truth": "Non-core funding dependence and short-term liabilities to total assets.",
+      "response": "Hello, this is Erin, the enterprise assistant. To measure liquidity risk, the two main benchmarks used are:\n\n1. Current Ratio: This is calculated by dividing a company's current assets by its current liabilities. It indicates a company's ability to pay its short-term obligations using its current assets.\n\n2. Quick Ratio (Acid-Test Ratio): This is calculated by dividing a company's most liquid current assets (cash, marketable securities, and accounts receivable) by its current liabilities. It provides a more stringent measure of a company's ability to meet its short-term obligations using its most liquid assets.\n\nThese ratios help assess a company's liquidity and its capacity to meet its short-term financial commitments. Let me know if you need any clarification or have additional questions!"
+    }
+  ]
+}
